@@ -1,0 +1,28 @@
+name: Gridlab
+favicon: null
+layout_spectrum: 0.7200351008214056
+typography_spectrum: 0.40742909675464034
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.07644949690438807
+  lightness: 0.021112224087119102
+  saturation: 0.634715803898871
+  rhythmicContrast: 0.9628564689774066
+purpose: []
