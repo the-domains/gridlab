@@ -4,8 +4,15 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 21:08:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2015 21:28:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to The Grid Beta! We’re glad you’re here. Watch this video for a quick overview before getting started.</p>]]></description>
+            <link>https://thegrid.ai/gridlab/welcome-to-the-grid-beta-were-glad-youre-here-watch-this/index.html</link>
+            <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
+            <pubDate>Sun, 20 Dec 2015 21:27:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[VisualEyesMedia]]></title>
             <description><![CDATA[<article><h1>VisualEyesMedia</h1><p>Visual Eyes Media, is a London based architectural visualisation company; producing high quality graphic solutions for all sectors of the architectural and building development community. We produce visual media that presents our client's schemes in the best possible light; adding tangible value to interactive presentations, planning submissions and marketing literature.</p></article>]]></description>
