@@ -23,6 +23,6 @@ color:
     - '#fefefe'
   brandStrength: 0
   lightness: 1
-  saturation: 1
-  rhythmicContrast: 0.9628564689774066
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
