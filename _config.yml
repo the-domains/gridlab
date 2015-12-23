@@ -23,6 +23,6 @@ color:
     - '#be2402'
   brandStrength: 1
   lightness: 0
-  saturation: 0
+  saturation: 1
   rhythmicContrast: 1
 purpose: []
