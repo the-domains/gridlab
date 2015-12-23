@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 22:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2015 22:32:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Wed, 23 Dec 2015 22:07:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="The Grid - Videos - Google&plus;" src="https://lh3.googleusercontent.com/7vjwgCro5umGi4UWLGa0sOFnFxrs2d16prb8f68b5qo=s630-fcrop64=1,1fe42dd7def2ecf0">]]></description>
+            <link>https://plus.google.com/u/0/b/102654808579548962078/102654808579548962078/videos</link>
+            <guid isPermaLink="false">21113b69-6afc-4662-b1e3-b15e06284cb5</guid>
+            <pubDate>Wed, 23 Dec 2015 22:32:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
