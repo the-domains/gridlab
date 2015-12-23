@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: This website is dedicated to the show off the Founder Members of The Grid
-datePublished: '2015-12-23T21:48:14.688Z'
-dateModified: '2015-12-23T21:48:07.049Z'
+datePublished: '2015-12-23T22:07:51.062Z'
+dateModified: '2015-12-23T22:07:35.064Z'
 author: []
 title: "Welcome to The Grid Beta!\_"
 sourcePath: _posts/2015-12-20-welcome-to-the-grid-beta-were-glad-youre-here-watch-this.md
@@ -25,6 +25,6 @@ _type: Article
 ---
 # [Welcome to The Grid Beta! ][0]
 
-Showing of the beta sites from Founding Members of The Grid.
+A showcase of  beta sites from Founding Members of The Grid.
 
 [0]: https://app.thegrid.io/welcome
