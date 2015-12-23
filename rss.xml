@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 21:51:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2015 21:56:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Wed, 23 Dec 2015 21:48:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ɅUGMΞNTL]]></title>
+            <description><![CDATA[<article><h1>ɅUGMΞNTL</h1><p>We recently demoed The Climb, a new virtual reality game from Crytek. At our demo session, we had the opportunity to chat with Jason Rubin, the Head of Worldwide Studios at Oculus, about his role in working with developers to make great virtual reality games for the launch of the Oculus Rift.</p></article>]]></description>
+            <link>http://augmentl.io/index.html</link>
+            <guid isPermaLink="false">cc02ba5c-ded3-41d3-b919-edadd6e2be6c</guid>
+            <pubDate>Wed, 23 Dec 2015 21:56:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chairs]]></title>
