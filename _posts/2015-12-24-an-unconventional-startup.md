@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T21:00:39.587Z'
-dateModified: '2015-12-24T21:00:34.808Z'
+datePublished: '2015-12-24T21:08:59.455Z'
+dateModified: '2015-12-24T21:08:55.015Z'
 title: An Unconventional Startup
 author: []
 sourcePath: _posts/2015-12-24-an-unconventional-startup.md
@@ -19,10 +19,10 @@ publisher:
   url: null
   favicon: null
 url: an-unconventional-startup/index.html
-_type: WebPage
+_type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3dbe587-04dc-4d6a-ae69-09662481dfee.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5512e914-0110-4d2b-a086-a4462f8575ad.jpg)
 
 ### The Grid --- An Unconventional Startup
 
