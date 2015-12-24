@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 05:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Dec 2015 05:30:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Wed, 23 Dec 2015 23:58:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["If you're alive...If you'r breathing, we need you. We need your vision."~Jeremy Cowart - CirclesConference]]></title>
+            <description><![CDATA[<article><h1>&quot;If you&apos;re alive&period;&period;&period;If you&apos;r breathing&comma; we need you&period; We need your vision&period;&quot;~Jeremy Cowart - CirclesConference</h1><p></p></article>]]></description>
+            <link>http://thegrid.ai/circlesconference/if-youre-aliveif-your-breathing-we-need-you-we-need/index.html</link>
+            <guid isPermaLink="false">1f3e9f21-53ce-41ab-987f-b363646c6f49</guid>
+            <pubDate>Thu, 24 Dec 2015 05:30:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://thegrid.ai/visualeyesmedia/</link>
             <guid isPermaLink="false">7300f88c-2906-49d6-af8a-0d71056bd2c6</guid>
             <pubDate>Sun, 20 Dec 2015 21:08:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beautifuloutcome]]></title>
-            <description><![CDATA[<article><h1>Beautifuloutcome</h1><p>We, Jeffrey and Julia Woods have owned our own photography business for over 20 years. In that time we have photographed weddings, portraits, commercial, as well as educating photographers around the world. Much of that education centered around helping photographers to keep their family first while balancing the demands of their business.</p></article>]]></description>
-            <link>https://thegrid.ai/beautifuloutcome/</link>
-            <guid isPermaLink="false">c0c4e933-952f-40ad-befb-211974f4edd6</guid>
-            <pubDate>Sun, 20 Dec 2015 20:24:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
