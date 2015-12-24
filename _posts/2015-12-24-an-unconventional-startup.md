@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T20:46:34.088Z'
-dateModified: '2015-12-24T20:46:29.807Z'
+datePublished: '2015-12-24T20:47:02.897Z'
+dateModified: '2015-12-24T20:46:57.312Z'
 title: An unconventional startup
 author: []
 sourcePath: _posts/2015-12-24-an-unconventional-startup.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8cc30f2-cd21-4677-bfe5-ce6c74e1d65c.jpg)
 
-### The Grid --- an unconventional startup
+### The Grid --- An Unconventional Startup
 
 I'm in Hawaii right now, but I'm not here with family nor am I on a company boondoggle, well not really... but sort of... allow me to explain.
 
