@@ -23,6 +23,6 @@ color:
     - '#8196a2'
   brandStrength: 0
   lightness: 0.5625
-  saturation: 1
+  saturation: 0
   rhythmicContrast: 0.5
 purpose: []
