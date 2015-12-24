@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 03:01:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Dec 2015 03:09:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Wed, 23 Dec 2015 23:58:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MyOtherCamera.is]]></title>
+            <description><![CDATA[<article><h1>MyOtherCamera.is</h1><p>The best camera is the one that is  always with you.</p></article>]]></description>
+            <link>http://myothercamera.is/</link>
+            <guid isPermaLink="false">4307c885-19ac-4712-be92-9d129c461be1</guid>
+            <pubDate>Thu, 24 Dec 2015 03:09:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Motion]]></title>
