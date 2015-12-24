@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 07:05:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Dec 2015 07:05:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Wed, 23 Dec 2015 23:58:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Artificial Intelligence: A Modern Approach]]></title>
+            <description><![CDATA[<article><h1>Artificial Intelligence: A Modern Approach</h1><img src="http://aima.cs.berkeley.edu/cover.jpg"></article>]]></description>
+            <link>http://aima.cs.berkeley.edu/</link>
+            <guid isPermaLink="false">2d10febb-8dd2-4115-84f0-f696982c0cfe</guid>
+            <pubDate>Thu, 24 Dec 2015 07:04:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://thegrid.ai/motion/</link>
             <guid isPermaLink="false">36374763-b235-45e8-b270-c94b4d9c59ea</guid>
             <pubDate>Thu, 24 Dec 2015 03:01:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ɅUGMΞNTL]]></title>
-            <description><![CDATA[<article><h1>ɅUGMΞNTL</h1><p>We recently demoed The Climb, a new virtual reality game from Crytek. At our demo session, we had the opportunity to chat with Jason Rubin, the Head of Worldwide Studios at Oculus, about his role in working with developers to make great virtual reality games for the launch of the Oculus Rift.</p></article>]]></description>
-            <link>http://augmentl.io/index.html</link>
-            <guid isPermaLink="false">cc02ba5c-ded3-41d3-b919-edadd6e2be6c</guid>
-            <pubDate>Wed, 23 Dec 2015 21:56:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
