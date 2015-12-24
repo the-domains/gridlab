@@ -1,14 +1,10 @@
 ---
-author:
-  - name: hollywoodstreams
-    url: 'https://www.youtube.com/user/hollywoodstreams'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=qglaQekqrWU'
+inLanguage: en
+starred: false
 keywords:
   - vignelli
   - duration
@@ -21,7 +17,13 @@ keywords:
   - helvetica
   - millman
 description: "http://www.hollywood.com 'Design Is One' Trailer Directors: Kathy Brew, Roberto Guerra Starring: Massimo Vignelli and Lella Vignelli Italian-born Massimo and Lella Vignelli are among the world's most influential designers. Throughout their long career, their motto has been, 'If you can't find it, design it' The work covers such a broad spectrum that one could say the Vignellis are known by everybody, even those who don't know their names."
-inLanguage: en
+datePublished: '2015-12-24T21:18:44.080Z'
+dateModified: '2015-12-24T21:18:38.052Z'
+author:
+  - name: hollywoodstreams
+    url: 'https://www.youtube.com/user/hollywoodstreams'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=qglaQekqrWU&feature=applinks'
     type: ios
@@ -33,15 +35,15 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=qglaQekqrWU&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=qglaQekqrWU'
-title: "'Design Is One' Trailer"
-datePublished: '2015-12-24T07:08:28.121Z'
-dateModified: '2015-12-24T07:06:48.548Z'
+title: Design Is One
 sourcePath: _posts/2015-12-24-design-is-one-trailer.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
