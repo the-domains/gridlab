@@ -1,14 +1,14 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T20:47:21.326Z'
-dateModified: '2015-12-24T20:47:17.305Z'
-title: An unconventional startup
+datePublished: '2015-12-24T20:51:40.532Z'
+dateModified: '2015-12-24T20:51:36.622Z'
+title: An Unconventional Startup
 author: []
 sourcePath: _posts/2015-12-24-an-unconventional-startup.md
 published: true
@@ -19,12 +19,11 @@ publisher:
   url: null
   favicon: null
 url: an-unconventional-startup/index.html
-_type: Article
+_type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8cc30f2-cd21-4677-bfe5-ce6c74e1d65c.jpg)
-
 ### The Grid --- An Unconventional Startup
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8cc30f2-cd21-4677-bfe5-ce6c74e1d65c.jpg)
 
 I'm in Hawaii right now, but I'm not here with family nor am I on a company boondoggle, well not really... but sort of... allow me to explain.
 
@@ -41,7 +40,7 @@ I'll tell more of The Grid story in future posts, but want to tell the story of 
 **Funding:**Like early Google, The Grid is well funded. Unlike Google, the majority of funding to date has come from friends, family and fans instead of institutional investors --- each and everyone act as evangelists and community leaders in their own tribes.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9585c0f-42bf-49e5-8f2c-e33d94eae108.jpg)
 
-**Team:**Like early Google, The Grid has a highly talented engineering team. Unlike early Google, The Grid engineering team works from 7 different time zones from which each were converted from rabid fan to employee. Interestingly, Wordpress which also shares the open source developer culture has a similar[distributed team][1].
+**Team:**Like early Google, The Grid has a highly talented engineering team. Unlike early Google, The Grid engineering team works from 7 different time zones from which each were converted from rabid fan to employee. Interestingly, Wordpress which also shares the open source developer culture has a similar [distributed team][1].
 
 **Team discussions:**Like early Google, The Grid passionately debate technical decisions. Unlike early Google, the debates take place in chat streams, Google video hangouts and over Hawaiian sunsets.
 
