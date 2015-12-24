@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 08:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Dec 2015 19:30:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Thu, 24 Dec 2015 08:41:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Grid Support Blog]]></title>
+            <description><![CDATA[<article><h1>The Grid Support Blog</h1><p>The Grid isn't an option for sharing by default. This video will show you how to enable it, and then share a photo to The Grid. After you enable sharing, you can also share content from your browser.</p></article>]]></description>
+            <link>https://thegrid.ai/thegridsupport/</link>
+            <guid isPermaLink="false">d623b398-2c98-4da0-9c08-654a28601380</guid>
+            <pubDate>Thu, 24 Dec 2015 19:29:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Medium is the Message]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/JakeVartanian/status/654678768234070016</link>
             <guid isPermaLink="false">765ddce2-fa73-4202-ba4d-4f1952504988</guid>
             <pubDate>Thu, 24 Dec 2015 05:21:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>@thegrid http://thegrid.ai/pulpnow - http://thegrid.ai/partake - http://thegrid.ai/soundbooth For a beta with some bugs, the output is unreal.</p>]]></description>
-            <link>https://twitter.com/johnmrod/status/677617441451540480</link>
-            <guid isPermaLink="false">6911858d-753a-46bf-b154-7485396003d4</guid>
-            <pubDate>Thu, 24 Dec 2015 05:21:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
