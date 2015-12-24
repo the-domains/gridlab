@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 21:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Dec 2015 21:52:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Thu, 24 Dec 2015 08:41:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ Distributed Team Culture of The Future?]]></title>
+            <description><![CDATA[<article><h1> Distributed Team Culture of The Future?</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/81683389-d05a-4272-951a-9476ec67f077.png"></article>]]></description>
+            <link>https://thegrid.ai/gridlab/distributed-team-culture-of-the-future/index.html</link>
+            <guid isPermaLink="false">de3fa052-17e7-4b54-a118-15d034dcc74e</guid>
+            <pubDate>Thu, 24 Dec 2015 21:52:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Grid Support Blog]]></title>
