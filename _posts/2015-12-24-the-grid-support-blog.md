@@ -1,17 +1,9 @@
 ---
-author:
-  - name: Jordy Webb
-    url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
-    avatar: {}
-  - name: thegrid
-    url: 'http://twitter.com/thegrid'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://thegrid.ai'
-  name: Thegrid
-  favicon: null
-  domain: thegrid.ai
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - share
   - layout
@@ -24,17 +16,27 @@ keywords:
   - grid
   - awesome
 description: "The Grid isn't an option for sharing by default. This video will show you how to enable it, and then share a photo to The Grid. After you enable sharing, you can also share content from your browser."
-inLanguage: en
+datePublished: '2015-12-24T19:30:50.703Z'
+dateModified: '2015-12-24T19:30:45.767Z'
+author:
+  - name: Jordy Webb
+    url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
+    avatar: {}
+  - name: thegrid
+    url: 'http://twitter.com/thegrid'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'https://thegrid.ai/thegridsupport/'
 title: The Grid Support Blog
-datePublished: '2015-12-24T19:29:43.273Z'
-dateModified: '2015-12-24T19:26:14.230Z'
 sourcePath: _posts/2015-12-24-the-grid-support-blog.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Thegrid
+  domain: thegrid.ai
+  url: 'https://thegrid.ai'
+  favicon: null
+url: the-grid-support-blog/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
