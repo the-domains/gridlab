@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 05:30:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Dec 2015 05:30:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Wed, 23 Dec 2015 23:58:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>@thegrid team is full of geniuses! They are creating a live re-cap website of #Circles2015! Check it out: http://thegrid.ai/circlesconference/ ...</p>]]></description>
+            <link>https://twitter.com/CirclesConf/status/642087249325092865</link>
+            <guid isPermaLink="false">c593a274-a981-4134-88dd-1e6befd874c9</guid>
+            <pubDate>Thu, 24 Dec 2015 05:30:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["If you're alive...If you'r breathing, we need you. We need your vision."~Jeremy Cowart - CirclesConference]]></title>
@@ -68,13 +75,6 @@
             <link>http://thegrid.ai/streetshots/index.html</link>
             <guid isPermaLink="false">cf39a0f2-2490-4695-b55e-2ccae304a38b</guid>
             <pubDate>Wed, 23 Dec 2015 20:38:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VisualEyesMedia]]></title>
-            <description><![CDATA[<article><h1>VisualEyesMedia</h1><p>Visual Eyes Media, is a London based architectural visualisation company; producing high quality graphic solutions for all sectors of the architectural and building development community. We produce visual media that presents our client's schemes in the best possible light; adding tangible value to interactive presentations, planning submissions and marketing literature.</p></article>]]></description>
-            <link>http://thegrid.ai/visualeyesmedia/</link>
-            <guid isPermaLink="false">7300f88c-2906-49d6-af8a-0d71056bd2c6</guid>
-            <pubDate>Sun, 20 Dec 2015 21:08:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
