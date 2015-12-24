@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 05:41:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Dec 2015 05:49:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Wed, 23 Dec 2015 23:58:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CirclesConference]]></title>
+            <description><![CDATA[<article><h1>CirclesConference</h1><p>The heart and soul behind Circles Co. is simple: to craft experiences for creatives, makers, and adventurers. Our hope is that through these unique experiences, there will be a spark within you to make better art, live more authentically, and use your creativity to inspire the world around you.</p></article>]]></description>
+            <link>https://thegrid.ai/circlesconference/</link>
+            <guid isPermaLink="false">dc828cd9-5b37-4584-95fb-000885d28ee2</guid>
+            <pubDate>Thu, 24 Dec 2015 05:49:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TheTribe]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Chairs</h1><p>Design: 1985 - 1958Production: 1988 - 1990 Manufacturer: Pod, SydneySize: 86 x 166 x 57 cmsMaterial: fiberglass, riveted sheet Aluminum The Australian designer Marc Newson has enjoyed international acclaim since 1985. The origins of his works are often associated with Sydney, his native city, where the sea is omnipresent, and with his hobby of surfing.</p></article>]]></description>
             <link>https://thegrid.ai/chairs/</link>
             <guid isPermaLink="false">1db3fae6-8d2d-4f45-85cd-e4a83dcd3d09</guid>
-            <pubDate>Wed, 23 Dec 2015 20:38:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Streetshots]]></title>
-            <description><![CDATA[<article><h1>Streetshots</h1><p>The great wall, Lima street Photography by Ivan Schuler "justoneartist" - Canon 6d - 1/400th - f8 - 24mm - ISO 125 - Tamron AF 24-70mm f/2.8 SP Di USD VC -</p></article>]]></description>
-            <link>http://thegrid.ai/streetshots/index.html</link>
-            <guid isPermaLink="false">cf39a0f2-2490-4695-b55e-2ccae304a38b</guid>
             <pubDate>Wed, 23 Dec 2015 20:38:35 GMT</pubDate>
         </item>
     </channel>
