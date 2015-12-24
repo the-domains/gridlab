@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T20:36:04.852Z'
-dateModified: '2015-12-24T20:36:00.182Z'
+datePublished: '2015-12-24T20:39:57.899Z'
+dateModified: '2015-12-24T20:39:53.294Z'
 title: An unconventional startup
 author: []
 sourcePath: _posts/2015-12-24-an-unconventional-startup.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: an-unconventional-startup/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8cc30f2-cd21-4677-bfe5-ce6c74e1d65c.jpg)
