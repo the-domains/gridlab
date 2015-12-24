@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T21:08:59.455Z'
-dateModified: '2015-12-24T21:08:55.015Z'
+datePublished: '2015-12-24T21:12:47.217Z'
+dateModified: '2015-12-24T21:12:43.454Z'
 title: An Unconventional Startup
 author: []
 sourcePath: _posts/2015-12-24-an-unconventional-startup.md
@@ -19,12 +19,11 @@ publisher:
   url: null
   favicon: null
 url: an-unconventional-startup/index.html
-_type: Article
+_type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5512e914-0110-4d2b-a086-a4462f8575ad.jpg)
-
 ### The Grid --- An Unconventional Startup
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5512e914-0110-4d2b-a086-a4462f8575ad.jpg)
 
 I'm in Hawaii right now, but I'm not here with family nor am I on a company boondoggle, well not really... but sort of... allow me to explain.
 
@@ -40,7 +39,7 @@ I'll tell more of The Grid story in future posts, but want to tell the story of 
 
 **Funding:**Like early Google, The Grid is well funded. Unlike Google, the majority of funding to date has come from friends, family and fans instead of institutional investors --- each and everyone act as evangelists and community leaders in their own tribes.
 
-**Team:**Like early Google, The Grid has a highly talented engineering team. Unlike early Google, The Grid engineering team works from 7 different time zones from which each were converted from rabid fan to employee. Interestingly, Wordpress which also shares the open source developer culture has a similar[distributed team][1].
+**Team:**Like early Google, The Grid has a highly talented engineering team. Unlike early Google, The Grid engineering team works from 7 different time zones from which each were converted from rabid fan to employee. Interestingly, Wordpress which also shares the open source developer culture has a similar [distributed team][1].
 
 **Team discussions:**Like early Google, The Grid passionately debate technical decisions. Unlike early Google, the debates take place in chat streams, Google video hangouts and over Hawaiian sunsets.
 
@@ -56,8 +55,11 @@ I'll tell more of The Grid story in future posts, but want to tell the story of 
 
 I've heard of other startups moving their entire company to an exotic location. Anyone with school-aged children knows the non-starter issues with this strategy. However, the periodic "team-cations" in exotic locations works great for those with children of any age, and for that matter anyone who is married, or single. Anyone who works with a distributed team should take note.
 
+[Brian Axe][3] - Co-Founder / Chairman
+
 ### 
 
 [0]: https://thegrid.io/#4
 [1]: http://www.xconomy.com/national/2013/09/27/reimagining-work-scott-berkuns-year-without-pants-automattic/
 [2]: http://money.cnn.com/2014/11/17/luxury/work-vacation/
+[3]: https://www.linkedin.com/in/brianaxe
