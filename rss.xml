@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 07:09:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Dec 2015 07:09:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Wed, 23 Dec 2015 23:58:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Medium is the Message]]></title>
+            <description><![CDATA[<article><h1>The Medium is the Message</h1><p>Is the form that you receive a message as significant as the message itself? Marshall McLuhan argued that throughout history what has been communicated has been less important than the particular medium through which people communicate. The technology that transfers the message changes us and changes society, the individual, the family, work, leisure and more.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Ko6J9v1C9zE</link>
+            <guid isPermaLink="false">543a33f2-c6d5-4c1d-8983-308612297a2e</guid>
+            <pubDate>Thu, 24 Dec 2015 07:08:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Design Is One' Trailer]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/johnmrod/status/677617441451540480</link>
             <guid isPermaLink="false">6911858d-753a-46bf-b154-7485396003d4</guid>
             <pubDate>Thu, 24 Dec 2015 05:21:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MyOtherCamera.is]]></title>
-            <description><![CDATA[<article><h1>MyOtherCamera.is</h1><p>The best camera is the one that is  always with you.</p></article>]]></description>
-            <link>http://myothercamera.is/</link>
-            <guid isPermaLink="false">4307c885-19ac-4712-be92-9d129c461be1</guid>
-            <pubDate>Thu, 24 Dec 2015 03:09:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
