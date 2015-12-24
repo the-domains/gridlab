@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 05:31:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Dec 2015 05:41:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Wed, 23 Dec 2015 23:58:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TheTribe]]></title>
+            <description><![CDATA[<article><h1>TheTribe</h1><p>The Tribe Conference is a marketing conference for people who don't think of themselves as marketers. It's a gathering for writers, artists, and creative entrepreneurs to grow their craft, share their work, and get the attention their work deserves. Here are some of my highlights of the conference.</p></article>]]></description>
+            <link>https://thegrid.ai/thetribe/</link>
+            <guid isPermaLink="false">fce097c3-8437-4613-9bd5-027bed613f8e</guid>
+            <pubDate>Thu, 24 Dec 2015 05:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
