@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://app.thegrid.io/welcome'
 inLanguage: null
 starred: true
 keywords: []
-description: Inspirations and a showcase of beta sites from The Founding Members of The Grid.
-datePublished: '2015-12-24T08:41:08.807Z'
-dateModified: '2015-12-24T08:40:40.403Z'
+description: Here you will find inspirations and a showcase of beta sites from The Founding Members of The Grid.
+datePublished: '2015-12-24T08:41:40.502Z'
+dateModified: '2015-12-24T08:41:34.648Z'
 author: []
 title: "Welcome to The Grid Beta!\_"
 sourcePath: _posts/2015-12-20-welcome-to-the-grid-beta-were-glad-youre-here-watch-this.md
