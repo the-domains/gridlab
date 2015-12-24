@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 07:05:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Dec 2015 07:09:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Wed, 23 Dec 2015 23:58:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Design Is One' Trailer]]></title>
+            <description><![CDATA[<article><h1>'Design Is One' Trailer</h1><p>http://www.hollywood.com 'Design Is One' Trailer Directors: Kathy Brew, Roberto Guerra Starring: Massimo Vignelli and Lella Vignelli Italian-born Massimo and Lella Vignelli are among the world's most influential designers. Throughout their long career, their motto has been, 'If you can't find it, design it' The work covers such a broad spectrum that one could say the Vignellis are known by everybody, even those who don't know their names.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=qglaQekqrWU</link>
+            <guid isPermaLink="false">871d424a-de33-4902-97b9-5242cc30fdb2</guid>
+            <pubDate>Thu, 24 Dec 2015 07:08:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Artificial Intelligence: A Modern Approach]]></title>
@@ -68,13 +75,6 @@
             <link>http://myothercamera.is/</link>
             <guid isPermaLink="false">4307c885-19ac-4712-be92-9d129c461be1</guid>
             <pubDate>Thu, 24 Dec 2015 03:09:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Motion]]></title>
-            <description><![CDATA[<article><h1>Motion</h1><p>Territory is a boutique creative studio specialising in motion, digital and graphic design. We work across a diverse range of sectors delivering creative solutions for brands large and small.</p></article>]]></description>
-            <link>http://thegrid.ai/motion/</link>
-            <guid isPermaLink="false">36374763-b235-45e8-b270-c94b4d9c59ea</guid>
-            <pubDate>Thu, 24 Dec 2015 03:01:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
