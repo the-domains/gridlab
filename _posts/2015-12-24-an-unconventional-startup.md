@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T20:27:42.190Z'
-dateModified: '2015-12-24T20:27:24.973Z'
+datePublished: '2015-12-24T20:36:04.852Z'
+dateModified: '2015-12-24T20:36:00.182Z'
 title: An unconventional startup
 author: []
+sourcePath: _posts/2015-12-24-an-unconventional-startup.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-24-an-unconventional-startup.md
-published: true
 url: an-unconventional-startup/index.html
 _type: WebPage
 
