@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T21:31:13.400Z'
-dateModified: '2015-12-24T21:31:08.319Z'
+datePublished: '2015-12-24T21:32:41.783Z'
+dateModified: '2015-12-24T21:31:34.402Z'
 title: An Unconventional Startup
 author: []
 sourcePath: _posts/2015-12-24-an-unconventional-startup.md
