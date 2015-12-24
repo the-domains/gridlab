@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T20:51:40.532Z'
-dateModified: '2015-12-24T20:51:36.622Z'
+datePublished: '2015-12-24T20:54:07.619Z'
+dateModified: '2015-12-24T20:54:03.616Z'
 title: An Unconventional Startup
 author: []
 sourcePath: _posts/2015-12-24-an-unconventional-startup.md
@@ -30,6 +30,7 @@ I'm in Hawaii right now, but I'm not here with family nor am I on a company boon
 When I joined Google in 2002 (500 employees), I thought Google was unconventional. We had a company chef, went on 3 day ski trips and most importantly, had extremely talented engineers who helped change the internet as we know it today.
 
 Since leaving Google in 2010 (25,000 employees), I helped start a company called The Grid. You may have heard of [The Grid][0], AI designed websites, apparently many of the Geniuses at the local Apple store here in Honolulu have, as we were delighted to learn when visiting the store.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9585c0f-42bf-49e5-8f2c-e33d94eae108.jpg)
 
 I knew I was going into unchartered territory when I partnered up with Dan and discovered he used to sell diamonds and was "fronted $1M of goods" to move in jewelry stores around the Bay Area. The diamond business led to the need for a website and the resulting quixotic search for a solution to the website problem.
 
@@ -38,7 +39,6 @@ I'll tell more of The Grid story in future posts, but want to tell the story of 
 **Founding Team:**Like Google, The Grid has a diverse set of tech founders. Unlike Google, one lives in San Francisco, the other in Berlin.
 
 **Funding:**Like early Google, The Grid is well funded. Unlike Google, the majority of funding to date has come from friends, family and fans instead of institutional investors --- each and everyone act as evangelists and community leaders in their own tribes.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9585c0f-42bf-49e5-8f2c-e33d94eae108.jpg)
 
 **Team:**Like early Google, The Grid has a highly talented engineering team. Unlike early Google, The Grid engineering team works from 7 different time zones from which each were converted from rabid fan to employee. Interestingly, Wordpress which also shares the open source developer culture has a similar [distributed team][1].
 
