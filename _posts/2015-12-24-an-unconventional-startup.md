@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T21:25:53.395Z'
-dateModified: '2015-12-24T21:25:49.704Z'
+datePublished: '2015-12-24T21:31:13.400Z'
+dateModified: '2015-12-24T21:31:08.319Z'
 title: An Unconventional Startup
 author: []
 sourcePath: _posts/2015-12-24-an-unconventional-startup.md
@@ -24,9 +24,7 @@ _type: WebPage
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5512e914-0110-4d2b-a086-a4462f8575ad.jpg)
 
-### The Grid --- An Unconventional Startup
-
-I'm in Hawaii right now, but I'm not here with family nor am I on a company boondoggle, well not really... but sort of... allow me to explain.
+### I'm in Hawaii right now, but I'm not here with family nor am I on a company boondoggle, well not really... but sort of... allow me to explain.
 
 When I joined Google in 2002 (500 employees), I thought Google was unconventional. We had a company chef, went on 3 day ski trips and most importantly, had extremely talented engineers who helped change the internet as we know it today.
 
