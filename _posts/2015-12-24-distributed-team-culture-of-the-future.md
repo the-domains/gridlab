@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-25T20:07:37.104Z'
-dateModified: '2015-12-25T20:07:13.164Z'
-title: "\_Distributed Team Culture of The Future?"
+datePublished: '2015-12-25T20:08:09.772Z'
+dateModified: '2015-12-25T20:08:08.461Z'
+title: An Unconventional Startup
 author: []
 sourcePath: _posts/2015-12-24-distributed-team-culture-of-the-future.md
 published: true
@@ -43,7 +43,7 @@ Team discussions: Like early Google, The Grid passionately debate technical deci
 Campus: Like early Google, The Grid has a college campus feel. Unlike Google, the campus literally moves from Florence, to Berlin to exotic locations across the globe during face to face meet-ups or "team-cations". 
 
 Office Space: Like early Google, The Grid pays for a common place for teams to work together. Unlike Google, this place popups every few months in exotic locations of the team's choice across the globe (and averages out to be less than the cost of dedicated office space!).
-Team events: Like early Google, The Grid provides budget for team building events. Unlike Google, these events occur organically during meet-ups in exotic locations. 
+Team events: Like early Google, The Grid provides budget for team building events. Unlike Google, these events occur organically during meet-ups in exotic locations. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bcfa107-e5d1-42a4-8f18-7efa64e21149.jpg)
 
 Work-Life Balance: Like early Google, The Grid respects a work-life balance. Unlike early Google, The Grid creates getaway "team-cations" (an inverted variant of the "work-cation") for employees to completely immerse in work 24 x 7\. Although many of us are away from our families (half the employees or more have kids), the concentrated "team-cations" and resulting progress allow one to unplug really and be present with family upon return. An in some cases in exotic locations as a family can join in on the tail-end of these trips. 
 
@@ -52,4 +52,3 @@ Work-Life Balance: Like early Google, The Grid respects a work-life balance. Unl
 I've heard of other startups moving their entire company to an exotic location. Anyone with school-aged children knows the non-starter issues with this strategy. However, the periodic "team-cations" in exotic locations works great for those with children of any age, and for that matter anyone who is married, or single. Anyone who works with a distributed team should take note.
 
 Brian Axe- Chairman/Co-Founder
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bcfa107-e5d1-42a4-8f18-7efa64e21149.jpg)
