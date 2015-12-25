@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-25T17:24:26.085Z'
-dateModified: '2015-12-24T22:08:38.781Z'
+datePublished: '2015-12-25T20:07:37.104Z'
+dateModified: '2015-12-25T20:07:13.164Z'
 title: "\_Distributed Team Culture of The Future?"
 author: []
 sourcePath: _posts/2015-12-24-distributed-team-culture-of-the-future.md
@@ -50,3 +50,6 @@ Work-Life Balance: Like early Google, The Grid respects a work-life balance. Unl
 **_Distributed Team Culture of The Future?_**
 
 I've heard of other startups moving their entire company to an exotic location. Anyone with school-aged children knows the non-starter issues with this strategy. However, the periodic "team-cations" in exotic locations works great for those with children of any age, and for that matter anyone who is married, or single. Anyone who works with a distributed team should take note.
+
+Brian Axe- Chairman/Co-Founder
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bcfa107-e5d1-42a4-8f18-7efa64e21149.jpg)
