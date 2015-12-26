@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-25T20:21:27.917Z'
-dateModified: '2015-12-25T20:21:08.286Z'
+datePublished: '2015-12-26T01:51:27.662Z'
+dateModified: '2015-12-26T01:51:23.021Z'
 title: An Unconventional Startup
 author: []
 sourcePath: _posts/2015-12-24-an-unconventional-startup.md
@@ -22,7 +22,7 @@ url: an-unconventional-startup/index.html
 _type: WebPage
 
 ---
-### The Grid --- an unconventional startup
+### 
 
 I'm in Hawaii right now, but I'm not here with family nor am I on a company boondoggle, well not really... but sort of... allow me to explain.
 
