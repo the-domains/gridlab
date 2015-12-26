@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-26T01:52:26.281Z'
-dateModified: '2015-12-26T01:52:20.535Z'
+datePublished: '2015-12-26T04:29:30.924Z'
+dateModified: '2015-12-26T04:29:24.397Z'
 title: An Unconventional Startup
 author: []
 sourcePath: _posts/2015-12-24-an-unconventional-startup.md
@@ -57,7 +57,9 @@ I'll tell more of The Grid story in future posts, but want to tell the story of 
 
 I've heard of other startups moving their entire company to an exotic location. Anyone with school-aged children knows the non-starter issues with this strategy. However, the periodic "team-cations" in exotic locations works great for those with children of any age, and for that matter anyone who is married, or single. Anyone who works with a distributed team should take note.
 
-[Brian Axe][3] - Co-Founder / Chairman
+[Brian Axe][3] - Co-Founder / Chairman  
+
+Feb 26, 2015 
 
 ### 
 
