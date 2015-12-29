@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-29T02:33:36.983Z'
-dateModified: '2015-12-29T02:33:21.447Z'
+datePublished: '2015-12-29T02:35:03.324Z'
+dateModified: '2015-12-29T02:34:58.587Z'
 title: "Human-in-the-loop\_"
 author: []
+sourcePath: _posts/2015-12-29-human-in-the-loop.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-29-human-in-the-loop.md
-published: true
 url: human-in-the-loop/index.html
 _type: Article
 
@@ -47,4 +47,6 @@ Yes, the approach is different, the focus is different, it is a paradigm shift b
 
 At the heart of it though, it is still human-centred; by humans for humans. The potential with assistive AI is that together we can raise the bar for everyone online --- not just for the select few that can.
 
-Leigh Taylor- Creative Director
+[Leigh Taylor- Creative Director ][0]
+
+[0]: https://www.behance.net/leightaylor
