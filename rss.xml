@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 02:57:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Dec 2015 02:59:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Thu, 24 Dec 2015 08:41:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CSS polyfills from the future | GSS]]></title>
+            <description><![CDATA[<article><h1>CSS polyfills from the future | GSS</h1><p>GSS polyfills layout languages from an alternate CSS future; including Greg Badros's Constraint CSS (CCSS) and Apple's Visual Format Language (VFL). GSS levels up CSS with relative positioning & sizing and true source order independence - which means developers can center any element within any other with a one-liner: #any[center] == #anyother[center]; Boom.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ad0d74a9068622043cd7ddecd90f4018cdbde0e.jpg"></article>]]></description>
+            <link>https://gridstylesheets.org/</link>
+            <guid isPermaLink="false">3333b551-959a-4332-8363-72932b3c3654</guid>
+            <pubDate>Tue, 29 Dec 2015 02:59:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Internet Stuff...]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/circlesconference/</link>
             <guid isPermaLink="false">dc828cd9-5b37-4584-95fb-000885d28ee2</guid>
             <pubDate>Thu, 24 Dec 2015 05:49:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TheTribe]]></title>
-            <description><![CDATA[<article><h1>TheTribe</h1><p>The Tribe Conference is a marketing conference for people who don't think of themselves as marketers. It's a gathering for writers, artists, and creative entrepreneurs to grow their craft, share their work, and get the attention their work deserves. Here are some of my highlights of the conference.</p></article>]]></description>
-            <link>https://thegrid.ai/thetribe/</link>
-            <guid isPermaLink="false">fce097c3-8437-4613-9bd5-027bed613f8e</guid>
-            <pubDate>Thu, 24 Dec 2015 05:41:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
