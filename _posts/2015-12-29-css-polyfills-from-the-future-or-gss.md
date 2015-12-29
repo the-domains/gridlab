@@ -17,8 +17,8 @@ keywords:
   - center
   - developers
 description: "GSS polyfills layout languages from an alternate CSS future; including Greg Badros's Constraint CSS (CCSS) and Apple's Visual Format Language (VFL). GSS levels up CSS with relative positioning & sizing and true source order independence - which means developers can center any element within any other with a one-liner: #any[center] == #anyother[center]; Boom."
-datePublished: '2015-12-29T03:01:36.880Z'
-dateModified: '2015-12-29T03:01:32.643Z'
+datePublished: '2015-12-29T03:10:40.223Z'
+dateModified: '2015-12-29T03:10:36.971Z'
 author: []
 related: []
 app_links: []
