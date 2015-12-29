@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://gridstylesheets.org'
-  name: Gridstylesheets
-  favicon: 'https://gridstylesheets.org/favicon.ico'
-  domain: gridstylesheets.org
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://gridstylesheets.org/'
+inLanguage: en
+starred: false
 keywords:
   - css
   - gss
@@ -18,19 +17,22 @@ keywords:
   - center
   - developers
 description: "GSS polyfills layout languages from an alternate CSS future; including Greg Badros's Constraint CSS (CCSS) and Apple's Visual Format Language (VFL). GSS levels up CSS with relative positioning & sizing and true source order independence - which means developers can center any element within any other with a one-liner: #any[center] == #anyother[center]; Boom."
-inLanguage: en
+datePublished: '2015-12-29T03:01:36.880Z'
+dateModified: '2015-12-29T03:01:32.643Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://gridstylesheets.org/'
 title: 'CSS polyfills from the future | GSS'
-datePublished: '2015-12-29T02:59:46.302Z'
-dateModified: '2015-12-29T02:56:05.205Z'
 sourcePath: _posts/2015-12-29-css-polyfills-from-the-future-or-gss.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Gridstylesheets
+  domain: gridstylesheets.org
+  url: 'https://gridstylesheets.org'
+  favicon: 'https://gridstylesheets.org/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>CSS polyfills from the future &amp;vert; GSS</h1><p>GSS polyfills layout languages from an alternate CSS future&amp;semi; including Greg Badros's Constraint CSS &amp;lpar;CCSS&amp;rpar; and Apple's Visual Format Language &amp;lpar;VFL&amp;rpar;&amp;period; GSS levels up CSS with relative positioning &amp; sizing and true source order independence - which means developers can center any element within any other with a one-liner&amp;colon; &amp;num;any&amp;lsqb;center&amp;rsqb; &amp;equals;&amp;equals; &amp;num;anyother&amp;lsqb;center&amp;rsqb;&amp;semi; Boom&amp;period;</p><img src="https://gridstylesheets.org/assets/images/oreilly-fluent-cover-purple.jpg" /></article>
+<article style=""><h1>CSS polyfills from the future | GSS</h1><p>GSS polyfills layout languages from an alternate CSS future; including Greg Badros's Constraint CSS (CCSS) and Apple's Visual Format Language (VFL). GSS levels up CSS with relative positioning &amp; sizing and true source order independence - which means developers can center any element within any other with a one-liner: #any[center] == #anyother[center]; Boom.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ad0d74a9068622043cd7ddecd90f4018cdbde0e.jpg" /></article>
