@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 03:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Dec 2015 21:12:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -29,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[CSS polyfills from the future | GSS]]></title>
-            <description><![CDATA[<article><h1>CSS polyfills from the future | GSS</h1><p>GSS polyfills layout languages from an alternate CSS future; including Greg Badros's Constraint CSS (CCSS) and Apple's Visual Format Language (VFL). GSS levels up CSS with relative positioning & sizing and true source order independence - which means developers can center any element within any other with a one-liner: #any[center] == #anyother[center]; Boom.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/66de9293095bed018dd1c585e0a835d8f5d6505c.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>CSS polyfills from the future | GSS</h1><p>GSS polyfills layout languages from an alternate CSS future; including Greg Badros's Constraint CSS (CCSS) and Apple's Visual Format Language (VFL). GSS levels up CSS with relative positioning & sizing and true source order independence - which means developers can center any element within any other with a one-liner: #any[center] == #anyother[center]; Boom.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/63d5be0539d27854461bcf384786ce5f16c8033a.jpg"></article>]]></description>
             <link>https://gridstylesheets.org/</link>
             <guid isPermaLink="false">3333b551-959a-4332-8363-72932b3c3654</guid>
             <pubDate>Tue, 29 Dec 2015 03:10:40 GMT</pubDate>
@@ -43,7 +43,7 @@
         </item>
         <item>
             <title><![CDATA[Human-in-the-loop ]]></title>
-            <description><![CDATA[<article><h1>Human-in-the-loop </h1><p>At the core, humans are needed to drive the AI, drive the direction and the vision for each persons unique slice of the internet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3193f2e3e5d5bf4c7da53750310872bba67542f1.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Human-in-the-loop </h1><p>At the core, humans are needed to drive the AI, drive the direction and the vision for each persons unique slice of the internet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f858765fc87d46db7b2533e2e929f88c2da2070c.jpg"></article>]]></description>
             <link>https://thegrid.ai/gridlab/human-in-the-loop/index.html</link>
             <guid isPermaLink="false">e7bc6a73-8424-4576-a80f-c249ce134bea</guid>
             <pubDate>Tue, 29 Dec 2015 02:39:48 GMT</pubDate>
@@ -57,7 +57,7 @@
         </item>
         <item>
             <title><![CDATA[The Medium is the Message]]></title>
-            <description><![CDATA[<article><h1>The Medium is the Message</h1><p>Is the form that you receive a message as significant as the message itself? Marshall McLuhan argued that throughout history what has been communicated has been less important than the particular medium through which people communicate. The technology that transfers the message changes us and changes society, the individual, the family, work, leisure and more.</p></article>]]></description>
+            <description><![CDATA[<article><h1>The Medium is the Message</h1><p>Is the form that you receive a message as significant as the message itself? Marshall McLuhan argued that throughout history what has been communicated has been less important than the particular medium through which people communicate. The technology that transfers the message changes us and changes society, the individual, the family, work, leisure and more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9fec0fec2d75cbdd5623ab8978b351ecf20cf4c.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=Ko6J9v1C9zE</link>
             <guid isPermaLink="false">543a33f2-c6d5-4c1d-8983-308612297a2e</guid>
             <pubDate>Thu, 24 Dec 2015 07:08:37 GMT</pubDate>
@@ -68,13 +68,6 @@
             <link>https://www.youtube.com/watch?v=qglaQekqrWU</link>
             <guid isPermaLink="false">871d424a-de33-4902-97b9-5242cc30fdb2</guid>
             <pubDate>Thu, 24 Dec 2015 21:18:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Artificial Intelligence: A Modern Approach]]></title>
-            <description><![CDATA[<article><h1>Artificial Intelligence: A Modern Approach</h1><img src="http://aima.cs.berkeley.edu/cover.jpg"></article>]]></description>
-            <link>http://aima.cs.berkeley.edu/</link>
-            <guid isPermaLink="false">2d10febb-8dd2-4115-84f0-f696982c0cfe</guid>
-            <pubDate>Thu, 24 Dec 2015 07:04:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
