@@ -1,40 +1,28 @@
-favicon: null
 name: Gridlab
+favicon: null
+layout_spectrum: 0.27242
+typography_spectrum: 0.59234
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-purpose: []
 color:
-  saturation: 0.06283564
-  brandStrength: 0.3893662
-  lightness: 0.9801289
   brandColors:
     - '#ffffff'
     - '#291224'
     - '#f04349'
     - '#732331'
     - '#cec19a'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.875
   rhythmicContrast: 1
-typography_spectrum: 0.59234
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.27242
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+purpose: []
