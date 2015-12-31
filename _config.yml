@@ -1,3 +1,4 @@
+favicon: null
 name: Gridlab
 opengraph:
   image: null
@@ -9,17 +10,17 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.3324382
-  lightness: 0.9801289
+  saturation: 0.06283564
   brandStrength: 0.3893662
+  lightness: 0.9801289
   brandColors:
     - '#ffffff'
     - '#291224'
@@ -32,9 +33,8 @@ cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 0.27242
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-layout_spectrum: 0.27242
