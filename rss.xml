@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 22:44:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jan 2016 21:54:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Thu, 24 Dec 2015 08:41:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jjwines]]></title>
+            <description><![CDATA[<article><h1>jjwines</h1><p>This Joseph Jewell Pinot is joyous in fresh berry fruit aromas and flavors, from wild strawberry to taut cherry, the fruit buoyed by lush, velvety tannins and generous acidity. Pretty on the nose and tongue, it discloses a trace of vanilla on the clean, distinct finish...Buy this wine</p></article>]]></description>
+            <link>https://thegrid.ai/jjwines/</link>
+            <guid isPermaLink="false">8d6cbcff-3308-428d-9da3-f176c090148b</guid>
+            <pubDate>Wed, 06 Jan 2016 21:54:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Flowhub | Peer-to-peer full-stack visual programming for your fingers]]></title>
