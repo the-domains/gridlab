@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 19:49:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 00:03:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Thu, 24 Dec 2015 08:41:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apex Creative Workshop Feb 16th-19th 2016]]></title>
+            <description><![CDATA[<article><h1>APEX WORKSHOPS</h1></article>]]></description>
+            <link>http://apex.vision/</link>
+            <guid isPermaLink="false">74c79357-72f0-4452-80bf-24cb0b75f73e</guid>
+            <pubDate>Sat, 16 Jan 2016 00:02:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SFCandyBar]]></title>
