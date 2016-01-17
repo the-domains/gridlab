@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 19:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 19:24:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Thu, 24 Dec 2015 08:41:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Imagejournal]]></title>
+            <description><![CDATA[<article><h1>Imagejournal</h1><p></p></article>]]></description>
+            <link>http://thegrid.ai/imagejournal/</link>
+            <guid isPermaLink="false">26247769-ae97-44e3-9a83-316945d5c48f</guid>
+            <pubDate>Sat, 16 Jan 2016 19:24:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SethLowe]]></title>
@@ -68,13 +75,6 @@
             <link>https://gridstylesheets.org/</link>
             <guid isPermaLink="false">3333b551-959a-4332-8363-72932b3c3654</guid>
             <pubDate>Tue, 29 Dec 2015 03:10:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Internet Stuff...]]></title>
-            <description><![CDATA[<article><h1>Internet Stuff...</h1><p>NEW YORK (Bloomberg) -- George Hotz's claim that he built a driverless car in his garage has created a debate on Wall Street about the future for automotive technology suppliers such as Mobileye. The 26-year-old hacker boasted in a Bloomberg Businessweek article that he developed a cheaper alternative to Mobileye technology used by Tesla Motors Inc.</p></article>]]></description>
-            <link>https://thegrid.ai/maven-updates/index.html</link>
-            <guid isPermaLink="false">84334143-57a2-48e2-83da-2925c29c22ba</guid>
-            <pubDate>Tue, 29 Dec 2015 02:56:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
