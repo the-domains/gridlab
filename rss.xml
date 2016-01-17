@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 19:27:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 19:42:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Thu, 24 Dec 2015 08:41:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Revolutionary Innovative Intelligentsia]]></title>
+            <description><![CDATA[<article><h1>Revolutionary Innovative Intelligentsia</h1><p>We aim to be a think tank and community for people who want to create new ideas online and offline for improving the world! From small to big ideas. We have just set up our first few steps towards it on the Grid and we will work our asses off to create a leap board for new ideas to be put in system.</p></article>]]></description>
+            <link>http://rii.no/</link>
+            <guid isPermaLink="false">4846dfa8-a660-4a9c-ad8d-1f17f0e87f8a</guid>
+            <pubDate>Sat, 16 Jan 2016 19:34:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Imagejournal]]></title>
@@ -68,13 +75,6 @@
             <link>http://thegrid.ai/press/</link>
             <guid isPermaLink="false">0b882680-184c-47b5-ae7f-8b6b282b1058</guid>
             <pubDate>Tue, 29 Dec 2015 03:01:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS polyfills from the future | GSS]]></title>
-            <description><![CDATA[<article><h1>CSS polyfills from the future | GSS</h1><p>GSS polyfills layout languages from an alternate CSS future; including Greg Badros's Constraint CSS (CCSS) and Apple's Visual Format Language (VFL). GSS levels up CSS with relative positioning & sizing and true source order independence - which means developers can center any element within any other with a one-liner: #any[center] == #anyother[center]; Boom.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/63d5be0539d27854461bcf384786ce5f16c8033a.jpg"></article>]]></description>
-            <link>https://gridstylesheets.org/</link>
-            <guid isPermaLink="false">3333b551-959a-4332-8363-72932b3c3654</guid>
-            <pubDate>Tue, 29 Dec 2015 03:10:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
