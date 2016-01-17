@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 00:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jan 2016 04:15:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Thu, 24 Dec 2015 08:41:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Focus]]></title>
+            <description><![CDATA[<article><h1>Focus</h1><p>Inspired by "The Grid". Shot on an iPhone 6+ using Stop Motion Studio, iMotion, & Movie Looks HD.</p></article>]]></description>
+            <link>https://vimeo.com/127320014</link>
+            <guid isPermaLink="false">87c3d892-b4af-4d91-9f8f-99dc8b56b07d</guid>
+            <pubDate>Sun, 17 Jan 2016 04:15:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Grid Support Blog]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/jjwines/</link>
             <guid isPermaLink="false">8d6cbcff-3308-428d-9da3-f176c090148b</guid>
             <pubDate>Wed, 06 Jan 2016 21:54:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flowhub | Peer-to-peer full-stack visual programming for your fingers]]></title>
-            <description><![CDATA[<article><h1>Flowhub | Peer-to-peer full-stack visual programming for your fingers</h1><p>Coding starts on the white-board. Keep it that way with Flowhub! The "graph" displays your software clearly, concisely and beautifully.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aec6039318c92aa903b0655ea451fd57a414ff8f.jpg"></article>]]></description>
-            <link>https://flowhub.io/</link>
-            <guid isPermaLink="false">c6b1f171-c701-4f2f-8130-a5eb56a8d2cf</guid>
-            <pubDate>Tue, 29 Dec 2015 03:03:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
