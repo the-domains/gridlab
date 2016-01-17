@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 00:04:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 19:22:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Thu, 24 Dec 2015 08:41:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SethLowe]]></title>
+            <description><![CDATA[<article><h1>SethLowe</h1><p></p></article>]]></description>
+            <link>http://thegrid.ai/sethlowe/</link>
+            <guid isPermaLink="false">5ff1a578-af73-44b2-aa9e-e03e31a19807</guid>
+            <pubDate>Sat, 16 Jan 2016 19:22:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Apex Creative Workshop Feb 16th-19th 2016]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/maven-updates/index.html</link>
             <guid isPermaLink="false">84334143-57a2-48e2-83da-2925c29c22ba</guid>
             <pubDate>Tue, 29 Dec 2015 02:56:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Human-in-the-loop ]]></title>
-            <description><![CDATA[<article><h1>Human-in-the-loop </h1><p>At the core, humans are needed to drive the AI, drive the direction and the vision for each persons unique slice of the internet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f858765fc87d46db7b2533e2e929f88c2da2070c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/gridlab/human-in-the-loop/index.html</link>
-            <guid isPermaLink="false">e7bc6a73-8424-4576-a80f-c249ce134bea</guid>
-            <pubDate>Tue, 29 Dec 2015 02:39:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
