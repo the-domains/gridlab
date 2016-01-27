@@ -17,7 +17,7 @@ keywords:
   - spark
   - unique
 description: 'The heart and soul behind Circles Co. is simple: to craft experiences for creatives, makers, and adventurers. Our hope is that through these unique experiences, there will be a spark within you to make better art, live more authentically, and use your creativity to inspire the world around you.'
-datePublished: '2016-01-27T16:36:09.327Z'
+datePublished: '2016-01-27T16:36:09.334Z'
 dateModified: '2016-01-27T16:36:05.923Z'
 author: []
 related: []
