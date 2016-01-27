@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 17:30:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 17:30:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Wed, 27 Jan 2016 17:26:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ɅUGMΞNTL]]></title>
+            <description><![CDATA[<article><h1>ɅUGMΞNTL</h1><p>We recently demoed The Climb, a new virtual reality game from Crytek. At our demo session, we had the opportunity to chat with Jason Rubin, the Head of Worldwide Studios at Oculus, about his role in working with developers to make great virtual reality games for the launch of the Oculus Rift.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f4018e1-9ee5-40c0-8965-45cf9c3cae32.jpg"></article>]]></description>
+            <link>http://augmentl.io/index.html</link>
+            <guid isPermaLink="false">cc02ba5c-ded3-41d3-b919-edadd6e2be6c</guid>
+            <pubDate>Wed, 27 Jan 2016 17:29:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[VisualEyesMedia]]></title>
@@ -68,13 +75,6 @@
             <link>http://rii.no/</link>
             <guid isPermaLink="false">4846dfa8-a660-4a9c-ad8d-1f17f0e87f8a</guid>
             <pubDate>Wed, 27 Jan 2016 16:29:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SethLowe]]></title>
-            <description><![CDATA[<article><h1>SethLowe</h1><p>Seth's passion for the visual story has led him to creating both still images and video for a variety of clients across the country</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6991a7f1c19499328dd0e72b6f7d76f185622d01.jpg"></article>]]></description>
-            <link>http://thegrid.ai/sethlowe/</link>
-            <guid isPermaLink="false">5ff1a578-af73-44b2-aa9e-e03e31a19807</guid>
-            <pubDate>Wed, 27 Jan 2016 16:32:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
