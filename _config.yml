@@ -1,6 +1,6 @@
 name: Gridlab
 favicon: null
-layout_spectrum: 0.1077
+layout_spectrum: 0
 typography_spectrum: 0.59234
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#4d6471'
     - '#d8cebf'
     - '#998259'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.6875
   saturation: 1
   rhythmicContrast: 1
