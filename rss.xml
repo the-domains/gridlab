@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 16:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 16:36:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Thu, 24 Dec 2015 08:41:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CirclesConference]]></title>
+            <description><![CDATA[<article><h1>CirclesConference</h1><p>The heart and soul behind Circles Co. is simple: to craft experiences for creatives, makers, and adventurers. Our hope is that through these unique experiences, there will be a spark within you to make better art, live more authentically, and use your creativity to inspire the world around you.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bb7f561-193a-411e-84e9-5eccad320673.jpg"></article>]]></description>
+            <link>https://thegrid.ai/circlesconference/</link>
+            <guid isPermaLink="false">dc828cd9-5b37-4584-95fb-000885d28ee2</guid>
+            <pubDate>Wed, 27 Jan 2016 16:36:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Revolutionary Innovative Intelligentsia]]></title>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[SethLowe]]></title>
-            <description><![CDATA[<article><h1>SethLowe</h1><p>Seth's passion for the visual story has led him to creating both still images and video for a variety of clients across the country</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8db5cc32f28458a36b3f837f9587bbe3d156fe04.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>SethLowe</h1><p>Seth's passion for the visual story has led him to creating both still images and video for a variety of clients across the country</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6991a7f1c19499328dd0e72b6f7d76f185622d01.jpg"></article>]]></description>
             <link>http://thegrid.ai/sethlowe/</link>
             <guid isPermaLink="false">5ff1a578-af73-44b2-aa9e-e03e31a19807</guid>
             <pubDate>Wed, 27 Jan 2016 16:32:47 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://thewoods.today/</link>
             <guid isPermaLink="false">ca37bcd3-d7fc-4b3a-9c67-103e78aa2fba</guid>
             <pubDate>Sat, 16 Jan 2016 19:27:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Joseph Jewell Wines]]></title>
-            <description><![CDATA[<article><h1>Joseph Jewell Wines</h1><p>This Joseph Jewell Pinot is joyous in fresh berry fruit aromas and flavors, from wild strawberry to taut cherry, the fruit buoyed by lush, velvety tannins and generous acidity. Pretty on the nose and tongue, it discloses a trace of vanilla on the clean, distinct finish...Buy this wine</p></article>]]></description>
-            <link>https://thegrid.ai/jjwines/</link>
-            <guid isPermaLink="false">8d6cbcff-3308-428d-9da3-f176c090148b</guid>
-            <pubDate>Wed, 06 Jan 2016 21:54:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
