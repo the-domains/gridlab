@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 16:38:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 16:48:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Thu, 24 Dec 2015 08:41:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TheTribe]]></title>
+            <description><![CDATA[<article><h1>TheTribe</h1><p>The Tribe Conference is a marketing conference for people who don't think of themselves as marketers. It's a gathering for writers, artists, and creative entrepreneurs to grow their craft, share their work, and get the attention their work deserves. Here are some of my highlights of the conference.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/120b6e69875b9ae8b2977f76915330b5fd6bcc81.png"></article>]]></description>
+            <link>https://thegrid.ai/thetribe/</link>
+            <guid isPermaLink="false">fce097c3-8437-4613-9bd5-027bed613f8e</guid>
+            <pubDate>Wed, 27 Jan 2016 16:48:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CirclesConference]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/sfcandybar/</link>
             <guid isPermaLink="false">a3ba6986-0078-410f-9237-8d4dcb40dd7e</guid>
             <pubDate>Wed, 27 Jan 2016 16:31:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wedding Photography Blog ]]></title>
-            <description><![CDATA[<article><h1>Wedding Photography Blog </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/42d89e7f-8e9e-4e54-ba29-294de9438736.jpg"></article>]]></description>
-            <link>http://thewoods.today/</link>
-            <guid isPermaLink="false">ca37bcd3-d7fc-4b3a-9c67-103e78aa2fba</guid>
-            <pubDate>Wed, 27 Jan 2016 16:38:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
