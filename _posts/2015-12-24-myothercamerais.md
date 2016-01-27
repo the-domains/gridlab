@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: The best camera is the one that is  always with you.
-datePublished: '2016-01-27T17:25:50.067Z'
+datePublished: '2016-01-27T17:25:50.130Z'
 dateModified: '2016-01-27T17:25:40.546Z'
 author: []
 title: MyOtherCamera.is
