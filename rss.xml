@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 16:48:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 17:06:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 24 Dec 2015 08:41:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Joseph Jewell Wines]]></title>
+            <description><![CDATA[<article><h1>Joseph Jewell Wines</h1><p>This Joseph Jewell Pinot is joyous in fresh berry fruit aromas and flavors, from wild strawberry to taut cherry, the fruit buoyed by lush, velvety tannins and generous acidity. Pretty on the nose and tongue, it discloses a trace of vanilla on the clean, distinct finish...Buy this wine</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4525ddc18aae1ab3ba0ef018e097cf94ae7d7cf2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jjwines/</link>
+            <guid isPermaLink="false">8d6cbcff-3308-428d-9da3-f176c090148b</guid>
+            <pubDate>Wed, 27 Jan 2016 17:05:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[TheTribe]]></title>
-            <description><![CDATA[<article><h1>TheTribe</h1><p>The Tribe Conference is a marketing conference for people who don't think of themselves as marketers. It's a gathering for writers, artists, and creative entrepreneurs to grow their craft, share their work, and get the attention their work deserves. Here are some of my highlights of the conference.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/120b6e69875b9ae8b2977f76915330b5fd6bcc81.png"></article>]]></description>
+            <description><![CDATA[<article><h1>TheTribe</h1><p>The Tribe Conference is a marketing conference for people who don't think of themselves as marketers. It's a gathering for writers, artists, and creative entrepreneurs to grow their craft, share their work, and get the attention their work deserves. Here are some of my highlights of the conference.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/94bc73711f6785af1c528ff443d48597bf24ec11.png"></article>]]></description>
             <link>https://thegrid.ai/thetribe/</link>
             <guid isPermaLink="false">fce097c3-8437-4613-9bd5-027bed613f8e</guid>
             <pubDate>Wed, 27 Jan 2016 16:48:54 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://apex.vision/</link>
             <guid isPermaLink="false">74c79357-72f0-4452-80bf-24cb0b75f73e</guid>
             <pubDate>Wed, 27 Jan 2016 16:24:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SFCandyBar]]></title>
-            <description><![CDATA[<article><h1>SFCandyBar</h1><p>Amy Rose, San Francisco, CA SF Candy Bar made my guests feel like kids in a candy shop, while creating a beautiful and sophisticated look customized to my colors and my sweet tooth. The Candy Bar was a social and conversational centerpiece providing a unique and personalized flair for my special night.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca67d427ea9006efe58cb93213934121e69728c5.jpg"></article>]]></description>
-            <link>https://thegrid.ai/sfcandybar/</link>
-            <guid isPermaLink="false">a3ba6986-0078-410f-9237-8d4dcb40dd7e</guid>
-            <pubDate>Wed, 27 Jan 2016 16:31:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
