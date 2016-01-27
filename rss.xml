@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 17:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 17:25:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -14,11 +14,18 @@
             <pubDate>Thu, 24 Dec 2015 08:41:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[MyOtherCamera.is]]></title>
+            <description><![CDATA[<article><h1>MyOtherCamera.is</h1><p>The best camera is the one that is  always with you.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a6fedcb-1e73-4931-94cc-b901b45c6682.jpg"></article>]]></description>
+            <link>http://myothercamera.is/</link>
+            <guid isPermaLink="false">4307c885-19ac-4712-be92-9d129c461be1</guid>
+            <pubDate>Wed, 27 Jan 2016 17:25:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Press]]></title>
-            <description><![CDATA[<article><h1>Press</h1><p>The most exciting entrepreneurs today are changing the way we will live in the future. Together with the team at Social Media Week, Entrepreneur has picked ten startups that are re-engineering the ways in which humans interact with the Internet.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/71de8032-3b0e-41fc-a076-d0e166346854.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Press</h1><p>The most exciting entrepreneurs today are changing the way we will live in the future. Together with the team at Social Media Week, Entrepreneur has picked ten startups that are re-engineering the ways in which humans interact with the Internet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f85453c9b311005089958434d7fcedadd516aae.jpg"></article>]]></description>
             <link>http://thegrid.ai/press/</link>
             <guid isPermaLink="false">0b882680-184c-47b5-ae7f-8b6b282b1058</guid>
-            <pubDate>Wed, 27 Jan 2016 17:24:22 GMT</pubDate>
+            <pubDate>Wed, 27 Jan 2016 17:24:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Joseph Jewell Wines]]></title>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/127320014</link>
             <guid isPermaLink="false">87c3d892-b4af-4d91-9f8f-99dc8b56b07d</guid>
             <pubDate>Sun, 17 Jan 2016 04:15:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid Support Blog]]></title>
-            <description><![CDATA[<article><h1>The Grid Support Blog</h1><p>The Grid isn't an option for sharing by default. This video will show you how to enable it, and then share a photo to The Grid. After you enable sharing, you can also share content from your browser.</p></article>]]></description>
-            <link>https://thegrid.ai/gridlab/the-grid-support-blog/index.html</link>
-            <guid isPermaLink="false">d623b398-2c98-4da0-9c08-654a28601380</guid>
-            <pubDate>Sun, 17 Jan 2016 00:13:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
