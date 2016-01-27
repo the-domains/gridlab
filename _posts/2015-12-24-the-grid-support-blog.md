@@ -1,5 +1,5 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: en
@@ -16,8 +16,8 @@ keywords:
   - grid
   - awesome
 description: "The Grid isn't an option for sharing by default. This video will show you how to enable it, and then share a photo to The Grid. After you enable sharing, you can also share content from your browser."
-datePublished: '2016-01-17T00:13:34.863Z'
-dateModified: '2016-01-17T00:13:28.472Z'
+datePublished: '2016-01-27T17:43:52.761Z'
+dateModified: '2016-01-27T17:43:48.780Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
