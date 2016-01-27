@@ -1,14 +1,14 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-29T02:39:48.302Z'
-dateModified: '2015-12-29T02:39:44.892Z'
-title: "Human-in-the-loop\_"
+datePublished: '2016-01-27T18:34:49.564Z'
+dateModified: '2016-01-27T18:34:46.404Z'
+title: 'Human-in-the-loop '
 author: []
 sourcePath: _posts/2015-12-29-human-in-the-loop.md
 published: true
@@ -19,10 +19,10 @@ publisher:
   url: null
   favicon: null
 url: human-in-the-loop/index.html
-_type: Article
+_type: WebPage
 
 ---
-# Human-in-the-loop ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0636696f25c50c962f14b36da5a16c5b6a0c9879.jpg)
+# Human-in-the-loop ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f858765fc87d46db7b2533e2e929f88c2da2070c.jpg)
 
 At the core, humans are needed to drive the AI, drive the direction and the vision for each persons unique slice of the internet.
 
