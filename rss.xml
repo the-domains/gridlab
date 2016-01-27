@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 17:06:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 17:25:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 24 Dec 2015 08:41:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Press]]></title>
+            <description><![CDATA[<article><h1>Press</h1><p>The most exciting entrepreneurs today are changing the way we will live in the future. Together with the team at Social Media Week, Entrepreneur has picked ten startups that are re-engineering the ways in which humans interact with the Internet.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/71de8032-3b0e-41fc-a076-d0e166346854.jpg"></article>]]></description>
+            <link>http://thegrid.ai/press/</link>
+            <guid isPermaLink="false">0b882680-184c-47b5-ae7f-8b6b282b1058</guid>
+            <pubDate>Wed, 27 Jan 2016 17:24:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Joseph Jewell Wines]]></title>
-            <description><![CDATA[<article><h1>Joseph Jewell Wines</h1><p>This Joseph Jewell Pinot is joyous in fresh berry fruit aromas and flavors, from wild strawberry to taut cherry, the fruit buoyed by lush, velvety tannins and generous acidity. Pretty on the nose and tongue, it discloses a trace of vanilla on the clean, distinct finish...Buy this wine</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4525ddc18aae1ab3ba0ef018e097cf94ae7d7cf2.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Joseph Jewell Wines</h1><p>This Joseph Jewell Pinot is joyous in fresh berry fruit aromas and flavors, from wild strawberry to taut cherry, the fruit buoyed by lush, velvety tannins and generous acidity. Pretty on the nose and tongue, it discloses a trace of vanilla on the clean, distinct finish...Buy this wine</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c37446bd8032fce29764d34f945797bd1ed49f7.jpg"></article>]]></description>
             <link>https://thegrid.ai/jjwines/</link>
             <guid isPermaLink="false">8d6cbcff-3308-428d-9da3-f176c090148b</guid>
             <pubDate>Wed, 27 Jan 2016 17:05:49 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/gridlab/the-grid-support-blog/index.html</link>
             <guid isPermaLink="false">d623b398-2c98-4da0-9c08-654a28601380</guid>
             <pubDate>Sun, 17 Jan 2016 00:13:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apex Creative Workshop Feb 16th-19th 2016]]></title>
-            <description><![CDATA[<article><h1>Apex Creative Workshop Feb 16th-19th 2016</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3357745ae2559f4a6363bfce7a57367dca2f224.jpg"></article>]]></description>
-            <link>http://apex.vision/</link>
-            <guid isPermaLink="false">74c79357-72f0-4452-80bf-24cb0b75f73e</guid>
-            <pubDate>Wed, 27 Jan 2016 16:24:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
