@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 17:27:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 17:29:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Wed, 27 Jan 2016 17:26:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beautifuloutcome]]></title>
+            <description><![CDATA[<article><h1>Beautifuloutcome</h1><p>We, Jeffrey and Julia Woods have owned our own photography business for over 20 years. In that time we have photographed weddings, portraits, commercial, as well as educating photographers around the world. Much of that education centered around helping photographers to keep their family first while balancing the demands of their business.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7fe7a5ad1dbb5afccc112b16abfd5fa2c99b765a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/beautifuloutcome/</link>
+            <guid isPermaLink="false">c0c4e933-952f-40ad-befb-211974f4edd6</guid>
+            <pubDate>Wed, 27 Jan 2016 17:29:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MyOtherCamera.is]]></title>
@@ -68,13 +75,6 @@
             <link>http://thegrid.ai/imagejournal/</link>
             <guid isPermaLink="false">26247769-ae97-44e3-9a83-316945d5c48f</guid>
             <pubDate>Wed, 27 Jan 2016 16:19:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Focus]]></title>
-            <description><![CDATA[<article><h1>Focus</h1><p>Inspired by "The Grid". Shot on an iPhone 6+ using Stop Motion Studio, iMotion, & Movie Looks HD.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/505dd22f91794ff301a4c58f5ca96a2d176f5731.jpg"></article>]]></description>
-            <link>https://vimeo.com/127320014</link>
-            <guid isPermaLink="false">87c3d892-b4af-4d91-9f8f-99dc8b56b07d</guid>
-            <pubDate>Sun, 17 Jan 2016 04:15:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
