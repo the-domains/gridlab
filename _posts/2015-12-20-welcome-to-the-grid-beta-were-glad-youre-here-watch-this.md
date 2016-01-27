@@ -7,7 +7,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: Here you will find inspirations and a showcase of beta sites from The Founding Members of The Grid.
-datePublished: '2016-01-27T17:26:56.771Z'
+datePublished: '2016-01-27T17:26:56.769Z'
 dateModified: '2016-01-27T17:26:54.777Z'
 author: []
 title: "Welcome to The Grid Beta!\_"
