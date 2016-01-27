@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 17:48:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 17:49:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Wed, 27 Jan 2016 17:26:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>@thegrid http://thegrid.ai/pulpnow - http://thegrid.ai/partake - http://thegrid.ai/soundbooth For a beta with some bugs, the output is unreal.</p>]]></description>
+            <link>https://twitter.com/johnmrod/status/677617441451540480</link>
+            <guid isPermaLink="false">63f88c4e-5228-4de7-9441-2a12dabd2482</guid>
+            <pubDate>Wed, 27 Jan 2016 17:49:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chairs]]></title>
@@ -68,13 +75,6 @@
             <link>http://thegrid.ai/press/</link>
             <guid isPermaLink="false">0b882680-184c-47b5-ae7f-8b6b282b1058</guid>
             <pubDate>Wed, 27 Jan 2016 17:24:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Joseph Jewell Wines]]></title>
-            <description><![CDATA[<article><h1>Joseph Jewell Wines</h1><p>This Joseph Jewell Pinot is joyous in fresh berry fruit aromas and flavors, from wild strawberry to taut cherry, the fruit buoyed by lush, velvety tannins and generous acidity. Pretty on the nose and tongue, it discloses a trace of vanilla on the clean, distinct finish...Buy this wine</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c37446bd8032fce29764d34f945797bd1ed49f7.jpg"></article>]]></description>
-            <link>https://thegrid.ai/jjwines/</link>
-            <guid isPermaLink="false">8d6cbcff-3308-428d-9da3-f176c090148b</guid>
-            <pubDate>Wed, 27 Jan 2016 17:47:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
