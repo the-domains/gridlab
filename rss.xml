@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 17:42:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 17:43:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Wed, 27 Jan 2016 17:26:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Chairs]]></title>
+            <description><![CDATA[<article><h1>Chairs</h1><p>Design: 1985 - 1958Production: 1988 - 1990 Manufacturer: Pod, SydneySize: 86 x 166 x 57 cmsMaterial: fiberglass, riveted sheet Aluminum The Australian designer Marc Newson has enjoyed international acclaim since 1985. The origins of his works are often associated with Sydney, his native city, where the sea is omnipresent, and with his hobby of surfing.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9983170e-8ce7-4e3a-b3b0-1ffd1a16ad02.jpg"></article>]]></description>
+            <link>https://thegrid.ai/chairs/</link>
+            <guid isPermaLink="false">1db3fae6-8d2d-4f45-85cd-e4a83dcd3d09</guid>
+            <pubDate>Wed, 27 Jan 2016 17:43:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Streetshots]]></title>
-            <description><![CDATA[<article><h1>Streetshots</h1><p>The great wall, Lima street Photography by Ivan Schuler "justoneartist" - Canon 6d - 1/400th - f8 - 24mm - ISO 125 - Tamron AF 24-70mm f/2.8 SP Di USD VC -</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d0e6281-bd8c-4666-b9d3-55d004651880.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Streetshots</h1><p>The great wall, Lima street Photography by Ivan Schuler "justoneartist" - Canon 6d - 1/400th - f8 - 24mm - ISO 125 - Tamron AF 24-70mm f/2.8 SP Di USD VC -</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42d6b302dd68463c019b49fdb6fd957427290372.jpg"></article>]]></description>
             <link>http://thegrid.ai/streetshots/index.html</link>
             <guid isPermaLink="false">cf39a0f2-2490-4695-b55e-2ccae304a38b</guid>
             <pubDate>Wed, 27 Jan 2016 17:38:53 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/jjwines/</link>
             <guid isPermaLink="false">8d6cbcff-3308-428d-9da3-f176c090148b</guid>
             <pubDate>Wed, 27 Jan 2016 17:05:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TheTribe]]></title>
-            <description><![CDATA[<article><h1>TheTribe</h1><p>The Tribe Conference is a marketing conference for people who don't think of themselves as marketers. It's a gathering for writers, artists, and creative entrepreneurs to grow their craft, share their work, and get the attention their work deserves. Here are some of my highlights of the conference.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/94bc73711f6785af1c528ff443d48597bf24ec11.png"></article>]]></description>
-            <link>https://thegrid.ai/thetribe/</link>
-            <guid isPermaLink="false">fce097c3-8437-4613-9bd5-027bed613f8e</guid>
-            <pubDate>Wed, 27 Jan 2016 16:48:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
