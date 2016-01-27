@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 16:36:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 16:38:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -15,7 +15,7 @@
         </item>
         <item>
             <title><![CDATA[CirclesConference]]></title>
-            <description><![CDATA[<article><h1>CirclesConference</h1><p>The heart and soul behind Circles Co. is simple: to craft experiences for creatives, makers, and adventurers. Our hope is that through these unique experiences, there will be a spark within you to make better art, live more authentically, and use your creativity to inspire the world around you.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bb7f561-193a-411e-84e9-5eccad320673.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>CirclesConference</h1><p>The heart and soul behind Circles Co. is simple: to craft experiences for creatives, makers, and adventurers. Our hope is that through these unique experiences, there will be a spark within you to make better art, live more authentically, and use your creativity to inspire the world around you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d958094be522649846a5b83d9fbfa9decbe714ef.jpg"></article>]]></description>
             <link>https://thegrid.ai/circlesconference/</link>
             <guid isPermaLink="false">dc828cd9-5b37-4584-95fb-000885d28ee2</guid>
             <pubDate>Wed, 27 Jan 2016 16:36:09 GMT</pubDate>
@@ -71,10 +71,10 @@
         </item>
         <item>
             <title><![CDATA[Wedding Photography Blog ]]></title>
-            <description><![CDATA[<article><h1>The Woods Today - Jeff and Julia</h1></article>]]></description>
+            <description><![CDATA[<article><h1>Wedding Photography Blog </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/42d89e7f-8e9e-4e54-ba29-294de9438736.jpg"></article>]]></description>
             <link>http://thewoods.today/</link>
             <guid isPermaLink="false">ca37bcd3-d7fc-4b3a-9c67-103e78aa2fba</guid>
-            <pubDate>Sat, 16 Jan 2016 19:27:43 GMT</pubDate>
+            <pubDate>Wed, 27 Jan 2016 16:38:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
