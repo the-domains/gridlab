@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 17:49:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 19:13:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Wed, 27 Jan 2016 17:26:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Travel & Lifestyle]]></title>
+            <description><![CDATA[<article><h1>Travel & Lifestyle</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/594d1924a5dd4146f435b42845ab0c384ba7b650.jpg"></article>]]></description>
+            <link>http://skylinelady.com/</link>
+            <guid isPermaLink="false">29c33ddc-64c3-46e7-b258-d3d31acc3076</guid>
+            <pubDate>Wed, 27 Jan 2016 19:13:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://myothercamera.is/</link>
             <guid isPermaLink="false">4307c885-19ac-4712-be92-9d129c461be1</guid>
             <pubDate>Wed, 27 Jan 2016 17:25:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Press]]></title>
-            <description><![CDATA[<article><h1>Press</h1><p>The most exciting entrepreneurs today are changing the way we will live in the future. Together with the team at Social Media Week, Entrepreneur has picked ten startups that are re-engineering the ways in which humans interact with the Internet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f85453c9b311005089958434d7fcedadd516aae.jpg"></article>]]></description>
-            <link>http://thegrid.ai/press/</link>
-            <guid isPermaLink="false">0b882680-184c-47b5-ae7f-8b6b282b1058</guid>
-            <pubDate>Wed, 27 Jan 2016 17:24:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
