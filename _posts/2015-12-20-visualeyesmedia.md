@@ -17,7 +17,7 @@ keywords:
   - montages
   - computer
 description: "Visual Eyes Media, is a London based architectural visualisation company; producing high quality graphic solutions for all sectors of the architectural and building development community. We produce visual media that presents our client's schemes in the best possible light; adding tangible value to interactive presentations, planning submissions and marketing literature."
-datePublished: '2016-01-27T17:29:58.127Z'
+datePublished: '2016-01-27T17:29:58.146Z'
 dateModified: '2016-01-27T17:28:21.311Z'
 author: []
 related: []
