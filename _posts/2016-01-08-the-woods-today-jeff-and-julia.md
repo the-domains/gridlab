@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T19:27:43.566Z'
-dateModified: '2016-01-16T19:27:39.114Z'
+datePublished: '2016-01-27T16:38:46.565Z'
+dateModified: '2016-01-27T16:38:42.399Z'
 author: []
 related: []
 app_links: []
@@ -25,6 +25,8 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42d89e7f-8e9e-4e54-ba29-294de9438736.jpg)
+
 <article style=""><h1>The Woods Today - Jeff and Julia</h1></article>
 
 Wedding Photography Blog
