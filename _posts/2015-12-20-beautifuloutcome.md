@@ -17,7 +17,7 @@ keywords:
   - weddings
   - woods
 description: 'We, Jeffrey and Julia Woods have owned our own photography business for over 20 years. In that time we have photographed weddings, portraits, commercial, as well as educating photographers around the world. Much of that education centered around helping photographers to keep their family first while balancing the demands of their business.'
-datePublished: '2016-01-27T17:29:49.961Z'
+datePublished: '2016-01-27T17:29:50.000Z'
 dateModified: '2016-01-27T17:26:37.348Z'
 author: []
 related: []
