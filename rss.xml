@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 17:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 17:42:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Wed, 27 Jan 2016 17:26:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Streetshots]]></title>
+            <description><![CDATA[<article><h1>Streetshots</h1><p>The great wall, Lima street Photography by Ivan Schuler "justoneartist" - Canon 6d - 1/400th - f8 - 24mm - ISO 125 - Tamron AF 24-70mm f/2.8 SP Di USD VC -</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d0e6281-bd8c-4666-b9d3-55d004651880.jpg"></article>]]></description>
+            <link>http://thegrid.ai/streetshots/index.html</link>
+            <guid isPermaLink="false">cf39a0f2-2490-4695-b55e-2ccae304a38b</guid>
+            <pubDate>Wed, 27 Jan 2016 17:38:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Motion]]></title>
-            <description><![CDATA[<article><h1>Motion</h1><p>Territory is a boutique creative studio specialising in motion, digital and graphic design. We work across a diverse range of sectors delivering creative solutions for brands large and small.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fda38fa9-692c-4e0e-a7d1-05d74e0347b2.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Motion</h1><p>Territory is a boutique creative studio specialising in motion, digital and graphic design. We work across a diverse range of sectors delivering creative solutions for brands large and small.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61a33b35bc2de11deea2a5425c1a676a2a70b3a8.png"></article>]]></description>
             <link>http://thegrid.ai/motion/</link>
             <guid isPermaLink="false">36374763-b235-45e8-b270-c94b4d9c59ea</guid>
             <pubDate>Wed, 27 Jan 2016 17:36:04 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/thetribe/</link>
             <guid isPermaLink="false">fce097c3-8437-4613-9bd5-027bed613f8e</guid>
             <pubDate>Wed, 27 Jan 2016 16:48:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CirclesConference]]></title>
-            <description><![CDATA[<article><h1>CirclesConference</h1><p>The heart and soul behind Circles Co. is simple: to craft experiences for creatives, makers, and adventurers. Our hope is that through these unique experiences, there will be a spark within you to make better art, live more authentically, and use your creativity to inspire the world around you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d958094be522649846a5b83d9fbfa9decbe714ef.jpg"></article>]]></description>
-            <link>https://thegrid.ai/circlesconference/</link>
-            <guid isPermaLink="false">dc828cd9-5b37-4584-95fb-000885d28ee2</guid>
-            <pubDate>Wed, 27 Jan 2016 16:36:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
