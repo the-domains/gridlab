@@ -7,24 +7,26 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T04:42:06.585Z'
-dateModified: '2016-01-17T04:36:28.249Z'
+datePublished: '2016-01-27T16:19:29.983Z'
+dateModified: '2016-01-27T16:19:26.441Z'
 author: []
 related: []
 app_links: []
 title: Imagejournal
+sourcePath: _posts/2016-01-16-imagejournal.md
+published: true
 authors: []
 publisher:
   name: Thegrid
   domain: thegrid.ai
   url: 'http://thegrid.ai'
   favicon: null
-sourcePath: _posts/2016-01-16-imagejournal.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Imagejournal</h1><p></p></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bed7aa82-9e91-450a-9b13-6df3230adc4d.jpg)
+
+<article style=""><h1>Imagejournal</h1></article>
 
 Collections of stories and education for photographers from Ryan Brown.
