@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 18:34:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 22:53:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Wed, 27 Jan 2016 17:26:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brigitte Oelke]]></title>
+            <description><![CDATA[<article><h1>Brigitte Oelke</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbd72ab643ed7558d0c73b1925703a1e72f2f950.jpg"></article>]]></description>
+            <link>http://oelkemusic.com/</link>
+            <guid isPermaLink="false">7616186e-3d9f-42ef-9ddc-625874bd6d69</guid>
+            <pubDate>Wed, 06 Apr 2016 22:51:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
