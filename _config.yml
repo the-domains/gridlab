@@ -2,6 +2,7 @@ name: Gridlab
 favicon: null
 layout_spectrum: 0.07574
 typography_spectrum: 0.59234
+style: the-composer
 cta:
   domain: null
   bucket: null
