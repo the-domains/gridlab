@@ -4,15 +4,8 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 02:47:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 02:49:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Apex Creative Workshop Feb 16th-19th 2016]]></title>
-            <description><![CDATA[<article><h1>Apex Creative Workshop Feb 16th-19th 2016</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3357745ae2559f4a6363bfce7a57367dca2f224.jpg"></article>]]></description>
-            <link>http://apex.vision/</link>
-            <guid isPermaLink="false">74c79357-72f0-4452-80bf-24cb0b75f73e</guid>
-            <pubDate>Fri, 02 Sep 2016 02:18:41 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
             <description><![CDATA[<article><h1>Welcome to The Grid Beta! </h1><p>Here you will find inspirations and a showcase of beta sites from The Founding Members of The Grid.</p></article>]]></description>
@@ -21,8 +14,15 @@
             <pubDate>Wed, 27 Jan 2016 17:26:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[jjwines]]></title>
+            <description><![CDATA[<article><h1>jjwines</h1><p>We quickly inquired about the ad and set up a vineyard visit. Upon our first visit to Appian Way, we knew we had found our match. Appian Way is a small, 2.5-acre vineyard planted to 100% Pinot Noir with 3 different clones including Dijon clones 115 and 777 as well as Pommard, a Heritage clone.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/425da09e3dbeff4b949823bb488ba92c7ea17220.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jjwines/</link>
+            <guid isPermaLink="false">5ef5947f-e9da-4327-82a1-c466f3069c3e</guid>
+            <pubDate>Fri, 02 Sep 2016 02:48:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Yellow Conference]]></title>
-            <description><![CDATA[<article><h1>Yellow Conference</h1><img src="https://imgflo.herokuapp.com/graph/851b8fd15e770b1/a246e1d97e482ce2b70c15a39c90b6ac/passthrough.jpg?input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8165a7b4-8c24-47da-8e22-aa181241a377.jpg&width=1440"></article>]]></description>
+            <description><![CDATA[<article><h1>Yellow Conference</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6630496bb37803c758343e037920644484dc550.jpg"></article>]]></description>
             <link>http://yellow.community/</link>
             <guid isPermaLink="false">6179d71a-69ba-4638-8ae8-7003db816fb7</guid>
             <pubDate>Fri, 02 Sep 2016 02:46:59 GMT</pubDate>
@@ -68,13 +68,6 @@
             <link>https://thegrid.ai/chairs/</link>
             <guid isPermaLink="false">1db3fae6-8d2d-4f45-85cd-e4a83dcd3d09</guid>
             <pubDate>Wed, 27 Jan 2016 17:43:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Streetshots]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d0e6281-bd8c-4666-b9d3-55d004651880.jpg" alt="" title="">]]></description>
-            <link>http://thegrid.ai/streetshots/index.html</link>
-            <guid isPermaLink="false">cf39a0f2-2490-4695-b55e-2ccae304a38b</guid>
-            <pubDate>Wed, 27 Jan 2016 17:38:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
