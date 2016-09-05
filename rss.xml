@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 04:48:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 05:08:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta!]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Fri, 02 Sep 2016 03:09:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[VisualEyesMedia]]></title>
+            <description><![CDATA[<article><h1>VisualEyesMedia</h1><p>Visual Eyes Media, is a London based architectural visualisation company; producing high quality graphic solutions for all sectors of the architectural and building development community. We produce visual media that presents our client's schemes in the best possible light; adding tangible value to interactive presentations, planning submissions and marketing literature.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db0b6464759fea7976936a919bcbf2a838255453.jpg"></article>]]></description>
+            <link>http://thegrid.ai/visualeyesmedia/</link>
+            <guid isPermaLink="false">410a7e13-5993-4548-9ab9-b1c8bd09fb94</guid>
+            <pubDate>Fri, 02 Sep 2016 05:08:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Circles Community]]></title>
@@ -68,13 +75,6 @@
             <link>http://tribeconference.live/</link>
             <guid isPermaLink="false">f4070aaa-5d16-4e9d-b96c-362bb5d80803</guid>
             <pubDate>Fri, 02 Sep 2016 03:21:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pause Fest]]></title>
-            <description><![CDATA[<article><h1>Pause Fest</h1><p>The last one out, turning out the lights. Well done @getDigital, @PauseFest has been awesome. #Pause2016 #legend</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c04e08707ef1d3f5453b40041483d9bf9761cae8.jpg"></article>]]></description>
-            <link>http://pausefest.today/</link>
-            <guid isPermaLink="false">c0901c15-3657-43b2-9831-8e603c3905a4</guid>
-            <pubDate>Fri, 02 Sep 2016 03:21:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
