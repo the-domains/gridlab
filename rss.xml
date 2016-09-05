@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 02:42:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 02:46:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Apex Creative Workshop Feb 16th-19th 2016]]></title>
@@ -19,6 +19,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Wed, 27 Jan 2016 17:26:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[INTO THE WORLD STORIES]]></title>
+            <description><![CDATA[<article><h1>INTO THE WORLD STORIES</h1><p>Have you ever tried to run away from growing up? "Every child has a favourite place known only to himself/herself. That is their own LITTLE world, No one can go in there - even parents and friends. In there they feel the wind, based in light, and listen the music."</p><img src="https://imgflo.herokuapp.com/graph/851b8fd15e770b1/911524f9458caa0c5e2e2d969bdd4bcb/passthrough.jpg?input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F99db2d44-9164-425a-a20b-11d3e93e8d11.jpg&width=1200"></article>]]></description>
+            <link>http://itwstories.sostudiosfilm.com/</link>
+            <guid isPermaLink="false">7c98c438-d1db-415a-b97f-a12ae37527ee</guid>
+            <pubDate>Fri, 02 Sep 2016 02:46:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[52 Portraits]]></title>
@@ -68,13 +75,6 @@
             <link>http://thegrid.ai/motion/</link>
             <guid isPermaLink="false">36374763-b235-45e8-b270-c94b4d9c59ea</guid>
             <pubDate>Wed, 27 Jan 2016 17:36:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ɅUGMΞNTL]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f4018e1-9ee5-40c0-8965-45cf9c3cae32.jpg" alt="" title="">]]></description>
-            <link>http://augmentl.io/index.html</link>
-            <guid isPermaLink="false">cc02ba5c-ded3-41d3-b919-edadd6e2be6c</guid>
-            <pubDate>Wed, 27 Jan 2016 17:29:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
