@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 03:00:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 03:00:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Wed, 27 Jan 2016 17:26:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jon Adaskin Photography]]></title>
+            <description><![CDATA[<article><h1>Jon Adaskin Photography</h1><p>Luke. Wet Plate Collodion on Blackened Steel. Summer 2016. Winnipeg, Canada</p><img src="https://imgflo.herokuapp.com/graph/851b8fd15e770b1/6fd1ba59161816e81110961e3bb028a3/passthrough.jpg?input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fd393d158a4b80dc955597e596a6871b54e484b45.jpg&width=1440"></article>]]></description>
+            <link>http://www.jonadaskin.com/</link>
+            <guid isPermaLink="false">2b426733-7a13-409f-ae39-34d80e4a2d32</guid>
+            <pubDate>Fri, 02 Sep 2016 02:59:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SethLowe]]></title>
