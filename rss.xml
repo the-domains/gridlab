@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 04:46:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 04:47:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta!]]></title>
@@ -12,6 +12,20 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Fri, 02 Sep 2016 03:09:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Circles Community]]></title>
+            <description><![CDATA[<article><h1>Circles Community</h1><p>School Project. Circles Conference is a two-day gathering event where creatives from around the world share their passions and creativity. Design: Hyungsoon Joo Music: Polar Tree by El Buho</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4361d5f723fbd3719e01215a4764c66f4729dbdb.jpg"></article>]]></description>
+            <link>http://thegrid.ai/circles-community/</link>
+            <guid isPermaLink="false">0a450bd1-7485-41de-8b30-a20a7836489d</guid>
+            <pubDate>Fri, 02 Sep 2016 04:46:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SethLowe]]></title>
+            <description><![CDATA[<article><h1>SethLowe</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd8d53db866b718fd0ad182a743545bf3d0f3f80.jpg"></article>]]></description>
+            <link>http://thegrid.ai/sethlowe/</link>
+            <guid isPermaLink="false">9d68c1df-8ce9-45e7-ba94-e016ac28c7c2</guid>
+            <pubDate>Fri, 02 Sep 2016 04:46:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[aoa]]></title>
@@ -42,13 +56,6 @@
             <pubDate>Fri, 02 Sep 2016 03:20:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Circles Community]]></title>
-            <description><![CDATA[<article><h1>Circles Community</h1><p>School Project. Circles Conference is a two-day gathering event where creatives from around the world share their passions and creativity. Design: Hyungsoon Joo Music: Polar Tree by El Buho</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4361d5f723fbd3719e01215a4764c66f4729dbdb.jpg"></article>]]></description>
-            <link>http://thegrid.ai/circles-community/</link>
-            <guid isPermaLink="false">0a450bd1-7485-41de-8b30-a20a7836489d</guid>
-            <pubDate>Fri, 02 Sep 2016 03:18:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[We are Foodies]]></title>
             <description><![CDATA[<article><h1>We are Foodies</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6215308d71d0b5196873057282c8e3be08e467b7.jpg"></article>]]></description>
             <link>http://thegrid.ai/foodanddrink/</link>
@@ -68,13 +75,6 @@
             <link>http://www.jonadaskin.com/</link>
             <guid isPermaLink="false">2b426733-7a13-409f-ae39-34d80e4a2d32</guid>
             <pubDate>Fri, 02 Sep 2016 03:09:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Imagejournal]]></title>
-            <description><![CDATA[<article><h1>Imagejournal</h1><p>Our site is meant to be a place for education and inspiration in photography. Please feel absolutely free to leave comments, share posts on social media, and ask any questions you would like. Check the journal page for images as they happen. Check the education page for articles and educational content.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a83d507de64b12946e282c8db456fabfcef6c91f.jpg"></article>]]></description>
-            <link>http://thegrid.ai/imagejournal/</link>
-            <guid isPermaLink="false">90bbf156-cc80-40a8-8737-c89a7286a8c4</guid>
-            <pubDate>Fri, 02 Sep 2016 03:09:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
