@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 02:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 02:17:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -12,13 +12,6 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Wed, 27 Jan 2016 17:26:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9b5589499184a043ebbaa565e279a961/passthrough.jpg?height=753&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F122d004365f470b47b7aba7a018713661d278aaf.jpg&width=1441">]]></description>
-            <link>https://thegrid.ai/gridlab/a2aa289c-0261-4ab4-a358-2add34c726c0/index.html</link>
-            <guid isPermaLink="false">a2aa289c-0261-4ab4-a358-2add34c726c0</guid>
-            <pubDate>Fri, 19 Feb 2016 02:11:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TonRunner]]></title>
