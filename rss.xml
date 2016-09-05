@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 02:53:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 02:53:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta! ]]></title>
@@ -68,13 +68,6 @@
             <link>http://tonrunner.uk/</link>
             <guid isPermaLink="false">1d2adb37-4680-4ad0-8b3a-c6300ccc8e07</guid>
             <pubDate>Thu, 28 Jan 2016 23:41:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chairs]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9983170e-8ce7-4e3a-b3b0-1ffd1a16ad02.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/chairs/</link>
-            <guid isPermaLink="false">1db3fae6-8d2d-4f45-85cd-e4a83dcd3d09</guid>
-            <pubDate>Wed, 27 Jan 2016 17:43:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
