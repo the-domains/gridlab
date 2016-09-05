@@ -4,18 +4,18 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 03:04:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 03:09:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Welcome to The Grid Beta! ]]></title>
-            <description><![CDATA[<article><h1>Welcome to The Grid Beta! </h1><p>Here you will find inspirations and a showcase of beta sites from The Founding Members of The Grid.</p></article>]]></description>
+            <title><![CDATA[Welcome to The Grid Beta!]]></title>
+            <description><![CDATA[<article><h1>Welcome to The Grid Beta!</h1><p>Here you will find inspirations and a showcase of beta sites from The Founding Members of The Grid.</p></article>]]></description>
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
-            <pubDate>Wed, 27 Jan 2016 17:26:56 GMT</pubDate>
+            <pubDate>Fri, 02 Sep 2016 03:09:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Imagejournal]]></title>
-            <description><![CDATA[<article><h1>Imagejournal</h1><p>Our site is meant to be a place for education and inspiration in photography. Please feel absolutely free to leave comments, share posts on social media, and ask any questions you would like. Check the journal page for images as they happen. Check the education page for articles and educational content.</p><img src="https://imgflo.herokuapp.com/graph/851b8fd15e770b1/cf3af3b7492491cde0ecba9696193c7a/passthrough.jpg?input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fba4457a7f759846448a76a905b8cf4f84d0de6f5.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Imagejournal</h1><p>Our site is meant to be a place for education and inspiration in photography. Please feel absolutely free to leave comments, share posts on social media, and ask any questions you would like. Check the journal page for images as they happen. Check the education page for articles and educational content.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a83d507de64b12946e282c8db456fabfcef6c91f.jpg"></article>]]></description>
             <link>http://thegrid.ai/imagejournal/</link>
             <guid isPermaLink="false">90bbf156-cc80-40a8-8737-c89a7286a8c4</guid>
             <pubDate>Fri, 02 Sep 2016 03:03:41 GMT</pubDate>
