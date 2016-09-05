@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-02T04:46:33.265Z'
+datePublished: '2016-09-02T04:48:09.122Z'
 sourcePath: _posts/2016-09-02-circles-community.md
 isBasedOnUrl: 'http://thegrid.ai/circles-community/'
 keywords:
@@ -16,14 +16,10 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-09-02T04:46:32.663Z'
+dateModified: '2016-09-02T04:48:08.623Z'
 title: Circles Community
 app_links: []
-publisher:
-  url: 'http://thegrid.ai'
-  name: Thegrid
-  favicon: null
-  domain: thegrid.ai
+publisher: {}
 description: >-
   School Project. Circles Conference is a two-day gathering event where
   creatives from around the world share their passions and creativity. Design:
