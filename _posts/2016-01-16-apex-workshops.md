@@ -1,31 +1,31 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://apex.vision/'
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-01-27T16:24:33.338Z'
-dateModified: '2016-01-27T16:24:29.668Z'
-author: []
-related: []
-app_links: []
-title: APEX WORKSHOPS
+datePublished: '2016-09-02T02:18:41.358Z'
 sourcePath: _posts/2016-01-16-apex-workshops.md
-published: true
+inFeed: true
+isBasedOnUrl: 'http://apex.vision/'
 authors: []
+hasPage: false
+keywords: []
+related: []
+author:
+  - name: ''
+    url: ''
+dateModified: '2016-09-02T02:18:40.486Z'
+title: Apex Creative Workshop Feb 16th-19th 2016
+app_links: []
 publisher:
-  name: Apex
-  domain: apex.vision
-  url: 'http://apex.vision'
-  favicon: null
+  name: ''
+  url: ''
+description: ''
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c94d2ed-dd5f-431c-b798-43afbbeb2dfb.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3357745ae2559f4a6363bfce7a57367dca2f224.jpg)
 
 <article style=""><h1>APEX WORKSHOPS</h1></article>
 
