@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 03:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 03:12:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta!]]></title>
@@ -15,10 +15,17 @@
         </item>
         <item>
             <title><![CDATA[We are Foodies]]></title>
-            <description><![CDATA[<article><h1>We are Foodies</h1><img src="https://imgflo.herokuapp.com/graph/851b8fd15e770b1/795008720666e43e473f342a3ff70561/passthrough.jpg?input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fb409d2fe1d9493a232c86da455e19117512c51d1.jpg&width=1440"></article>]]></description>
+            <description><![CDATA[<article><h1>We are Foodies</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6215308d71d0b5196873057282c8e3be08e467b7.jpg"></article>]]></description>
             <link>http://thegrid.ai/foodanddrink/</link>
             <guid isPermaLink="false">43f1d1d0-bac9-49bd-ae1d-eb2ab42f7859</guid>
             <pubDate>Fri, 02 Sep 2016 03:11:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ɅUGMΞNTL]]></title>
+            <description><![CDATA[<article><h1>ɅUGMΞNTL</h1><p>Last night, having just unlocked the Hard difficulty levels, I decided to take on a night time climb over The Bay, an attractive asian setting remindful of Thailand or Indonesia, complete with floating paper lamps and a beautiful view of the moonlit resort below.</p><img src="https://imgflo.herokuapp.com/graph/851b8fd15e770b1/658e89dc228662dfb4f98c93cf658554/passthrough.jpg?input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fc1a13d3d89c3e9aa28b41ecb8c402fc76fa789a5.jpg&width=1280"></article>]]></description>
+            <link>http://augmentl.io/</link>
+            <guid isPermaLink="false">ca567dba-1505-46af-8958-e3cd7e160958</guid>
+            <pubDate>Fri, 02 Sep 2016 03:11:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jon Adaskin Photography]]></title>
@@ -68,13 +75,6 @@
             <link>http://yellow.community/</link>
             <guid isPermaLink="false">6179d71a-69ba-4638-8ae8-7003db816fb7</guid>
             <pubDate>Fri, 02 Sep 2016 02:46:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[INTO THE WORLD STORIES]]></title>
-            <description><![CDATA[<article><h1>INTO THE WORLD STORIES</h1><p>Have you ever tried to run away from growing up? "Every child has a favourite place known only to himself/herself. That is their own LITTLE world, No one can go in there - even parents and friends. In there they feel the wind, based in light, and listen the music."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ad2a9b24fe9c749c219b0fa0b3c15a2c46b1bc3.jpg"></article>]]></description>
-            <link>http://itwstories.sostudiosfilm.com/</link>
-            <guid isPermaLink="false">7c98c438-d1db-415a-b97f-a12ae37527ee</guid>
-            <pubDate>Fri, 02 Sep 2016 02:46:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
