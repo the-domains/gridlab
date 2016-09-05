@@ -4,7 +4,7 @@
         <description><![CDATA[Gridlab]]></description>
         <link>https://thegrid.ai/gridlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 04:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 04:47:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to The Grid Beta!]]></title>
@@ -12,6 +12,27 @@
             <link>https://app.thegrid.io/welcome</link>
             <guid isPermaLink="false">87ae78dd-82e7-4475-87cd-8b2db44d7d29</guid>
             <pubDate>Fri, 02 Sep 2016 03:09:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Travel Content]]></title>
+            <description><![CDATA[<article><h1>Travel Content</h1><p>For behind the scenes photos, check out my new Instagram account: morten.rustad rustadmedia.com Please watch in HD with good speakers for the optimal experience. You can watch it in 4K here: youtube.com/watch?v=Scxs7L0vhZ4 This is a time-lapse video resulting from a 15,000 km (almost 10,000 miles) long road trip and tens of thousands of images taken along the way over the last 5 months.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/739d53f7bf9a74ad7e294736718da06a4a62af97.jpg"></article>]]></description>
+            <link>http://thegrid.ai/community/</link>
+            <guid isPermaLink="false">72e3f3ce-fa77-4351-a203-d2e65943179b</guid>
+            <pubDate>Fri, 02 Sep 2016 04:47:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Imagejournal]]></title>
+            <description><![CDATA[<article><h1>Imagejournal</h1><p>Our site is meant to be a place for education and inspiration in photography. Please feel absolutely free to leave comments, share posts on social media, and ask any questions you would like. Check the journal page for images as they happen. Check the education page for articles and educational content.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a83d507de64b12946e282c8db456fabfcef6c91f.jpg"></article>]]></description>
+            <link>http://thegrid.ai/imagejournal/</link>
+            <guid isPermaLink="false">90bbf156-cc80-40a8-8737-c89a7286a8c4</guid>
+            <pubDate>Fri, 02 Sep 2016 04:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We are Foodies]]></title>
+            <description><![CDATA[<article><h1>We are Foodies</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6215308d71d0b5196873057282c8e3be08e467b7.jpg"></article>]]></description>
+            <link>http://thegrid.ai/foodanddrink/</link>
+            <guid isPermaLink="false">43f1d1d0-bac9-49bd-ae1d-eb2ab42f7859</guid>
+            <pubDate>Fri, 02 Sep 2016 04:46:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[aoa]]></title>
@@ -54,27 +75,6 @@
             <link>http://curlqueen.salon/</link>
             <guid isPermaLink="false">45f39f05-ee86-4dc6-9ce2-e7730c8ee8f8</guid>
             <pubDate>Fri, 02 Sep 2016 03:20:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We are Foodies]]></title>
-            <description><![CDATA[<article><h1>We are Foodies</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6215308d71d0b5196873057282c8e3be08e467b7.jpg"></article>]]></description>
-            <link>http://thegrid.ai/foodanddrink/</link>
-            <guid isPermaLink="false">43f1d1d0-bac9-49bd-ae1d-eb2ab42f7859</guid>
-            <pubDate>Fri, 02 Sep 2016 03:11:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ɅUGMΞNTL]]></title>
-            <description><![CDATA[<article><h1>ɅUGMΞNTL</h1><p>Last night, having just unlocked the Hard difficulty levels, I decided to take on a night time climb over The Bay, an attractive asian setting remindful of Thailand or Indonesia, complete with floating paper lamps and a beautiful view of the moonlit resort below.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90959045d9f32845395eae0a3db3179b2472bf7a.jpg"></article>]]></description>
-            <link>http://augmentl.io/</link>
-            <guid isPermaLink="false">ca567dba-1505-46af-8958-e3cd7e160958</guid>
-            <pubDate>Fri, 02 Sep 2016 03:11:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jon Adaskin Photography]]></title>
-            <description><![CDATA[<article><h1>Jon Adaskin Photography</h1><p>Luke. Wet Plate Collodion on Blackened Steel. Summer 2016. Winnipeg, Canada</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54ec4ca9f66858f5fe7bb466421b5adfd0f76c73.jpg"></article>]]></description>
-            <link>http://www.jonadaskin.com/</link>
-            <guid isPermaLink="false">2b426733-7a13-409f-ae39-34d80e4a2d32</guid>
-            <pubDate>Fri, 02 Sep 2016 03:09:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
