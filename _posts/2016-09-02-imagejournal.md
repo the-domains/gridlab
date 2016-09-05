@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-02T03:09:40.625Z'
+datePublished: '2016-09-02T04:47:04.817Z'
 sourcePath: _posts/2016-09-02-imagejournal.md
 isBasedOnUrl: 'http://thegrid.ai/imagejournal/'
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-09-02T03:09:40.186Z'
+dateModified: '2016-09-02T04:47:04.331Z'
 title: Imagejournal
 app_links: []
 publisher:
