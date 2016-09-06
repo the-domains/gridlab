@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-02T04:47:04.817Z'
+datePublished: '2016-09-02T16:08:34.238Z'
 sourcePath: _posts/2016-09-02-imagejournal.md
 isBasedOnUrl: 'http://thegrid.ai/imagejournal/'
 keywords:
@@ -16,14 +16,10 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-09-02T04:47:04.331Z'
+dateModified: '2016-09-02T16:08:33.413Z'
 title: Imagejournal
 app_links: []
-publisher:
-  url: 'http://thegrid.ai'
-  name: Thegrid
-  favicon: null
-  domain: thegrid.ai
+publisher: {}
 description: >-
   Our site is meant to be a place for education and inspiration in photography.
   Please feel absolutely free to leave comments, share posts on social media,
