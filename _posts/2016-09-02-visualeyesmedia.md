@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-02T05:08:49.014Z'
+datePublished: '2016-09-02T19:47:34.610Z'
 sourcePath: _posts/2016-09-02-visualeyesmedia.md
 isBasedOnUrl: 'http://thegrid.ai/visualeyesmedia/'
 keywords:
@@ -16,14 +16,10 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-09-02T05:08:47.431Z'
+dateModified: '2016-09-02T19:47:34.210Z'
 title: VisualEyesMedia
 app_links: []
-publisher:
-  url: 'http://thegrid.ai'
-  name: Thegrid
-  favicon: null
-  domain: thegrid.ai
+publisher: {}
 description: >-
   Visual Eyes Media, is a London based architectural visualisation company;
   producing high quality graphic solutions for all sectors of the architectural
